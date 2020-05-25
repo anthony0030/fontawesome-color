@@ -136,6 +136,41 @@
   --fa-secondary-color: #FFFF00;
 }
 
+.fa-battery-slash, .fa-battery-empty, .fa-battery-quarter, .fa-battery-half, .fa-battery-three-quarters, .fa-battery-full, .fa-battery-bolt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #808080;
+}
+
+.fa-battery-bolt {
+  --fa-primary-color: #FFFF00;
+}
+
+.fa-battery-full {
+  --fa-primary-color: #008000;
+}
+
+.fa-battery-three-quarters {
+  --fa-primary-color: #FFFF00;
+}
+
+.fa-battery-half {
+  --fa-primary-color: #FFA500;
+}
+
+.fa-battery-quarter {
+  --fa-primary-color: #FF0000;
+}
+
+.fa-battery-empty {
+  --fa-primary-color: #808080;
+}
+
+.fa-battery-slash {
+  --fa-primary-color: #FF0000;
+}
+
 .fa-angry,
 .fa-dizzy,
 .fa-flushed,

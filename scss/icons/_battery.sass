@@ -1,0 +1,30 @@
+%battery
+  @include fa-color($battery-outline)
+
+.#{$fa-css-prefix}-battery-bolt
+  @extend %battery
+  --fa-primary-color: #{$battery-bolt-color}
+
+.#{$fa-css-prefix}-battery-full
+  @extend %battery
+  --fa-primary-color: #{$battery-full-color}
+
+.#{$fa-css-prefix}-battery-three-quarters
+  @extend %battery
+  --fa-primary-color: #{$battery-three-quarters-color}
+
+.#{$fa-css-prefix}-battery-half
+  @extend %battery
+  --fa-primary-color: #{$battery-half-color}
+
+.#{$fa-css-prefix}-battery-quarter
+  @extend %battery
+  --fa-primary-color: #{$battery-quarter-color}
+
+.#{$fa-css-prefix}-battery-empty
+  @extend %battery
+  --fa-primary-color: #{$battery-empty-color}
+
+.#{$fa-css-prefix}-battery-slash
+  @extend %battery
+  --fa-primary-color: #{$battery-slash-color}
