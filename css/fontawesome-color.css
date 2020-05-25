@@ -1,18 +1,208 @@
-/* Error: Undefined mixin.
- *   ,
- * 6 |   @include fa-color($black, $yellow)
- *   |   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- *   '
- *   scss/_placeholders.sass 6:3      @import
- *   scss/fontawesome-color.sass 2:9  root stylesheet */
-
-body::before {
-  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
-      "Droid Sans Mono", monospace, monospace;
-  white-space: pre;
-  display: block;
-  padding: 1em;
-  margin-bottom: 1em;
-  border-bottom: 2px solid black;
-  content: "Error: Undefined mixin.\a   \2577 \a 6 \2502    @include fa-color($black, $yellow)\a   \2502    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\a   \2575 \a   scss/_placeholders.sass 6:3      @import\a   scss/fontawesome-color.sass 2:9  root stylesheet";
+.fab {
+  --fa-primary-opacity: 1 !important;
+  --fa-secondary-opacity: 1 !important;
 }
+
+.fa-american-sign-language-interpreting {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #4d381d;
+  --fa-secondary-color: #ffcba4;
+}
+
+.fa-assistive-listening-systems {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ffcba4;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-audio-description {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #000000;
+}
+
+.fa-blind {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #808080;
+}
+
+.fa-braille {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #000000;
+}
+
+.fa-closed-captioning {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #000000;
+}
+
+.fa-deaf {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ffcba4;
+  --fa-secondary-color: #FF0000;
+}
+
+.fa-dog-leashed {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #FF0000;
+}
+
+.fa-low-vision {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #0000FF;
+}
+
+.fa-phone-volume {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-question-circle {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #000000;
+}
+
+.fa-sign-language {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ffcba4;
+  --fa-secondary-color: #4d381d;
+}
+
+.fa-tty {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #000000;
+}
+
+.fa-universal-access {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-wheelchair {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #0000FF;
+}
+
+.fa-bell {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-bell-exclamation {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-bell-on {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-bell-plus {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-angry,
+.fa-dizzy,
+.fa-flushed,
+.fa-frown,
+.fa-frown-open,
+.fa-grimace,
+.fa-grin,
+.fa-grin-alt,
+.fa-grin-beam,
+.fa-grin-beam-sweat,
+.fa-grin-hearts,
+.fa-grin-squint,
+.fa-grin-squint-tears,
+.fa-grin-stars,
+.fa-grin-tears,
+.fa-grin-tongue,
+.fa-grin-tongue-squint,
+.fa-grin-tongue-wink,
+.fa-grin-wink,
+.fa-kiss,
+.fa-kiss-beam,
+.fa-kiss-wink-heart,
+.fa-laugh,
+.fa-laugh-beam,
+.fa-laugh-squint,
+.fa-laugh-wink,
+.fa-meh,
+.fa-meh-blank,
+.fa-meh-rolling-eyes,
+.fa-sad-cry,
+.fa-sad-tear,
+.fa-smile,
+.fa-smile-beam,
+.fa-smile-plus,
+.fa-smile-wink,
+.fa-surprise,
+.fa-tired {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #495057;
+  --fa-secondary-color: #ffdc1e;
+}
+
+.fa-grin-hearts,
+.fa-kiss-wink-heart {
+  --fa-primary-color: #fb153f;
+}
+
+.fa-dizzy {
+  --fa-primary-color: #adff2f;
+}
+
+.fa-grin-beam-sweat {
+  --fa-primary-color: #add8e6;
+}
+
+.fa-grin-squint-tears,
+.fa-grin-tears,
+.fa-sad-cry,
+.fa-sad-tear {
+  --fa-primary-color: #add8e6;
+}
+
+.fa-grin-tongue,
+.fa-grin-tongue-squint,
+.fa-grin-tongue-wink {
+  --fa-primary-color: #fb153f;
+}
+
+/*# sourceMappingURL=fontawesome-color.css.map */

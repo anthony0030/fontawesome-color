@@ -1,0 +1,63 @@
+%emoji
+  @include fa-color($emoji-eyes, $emoji-face)
+
+.#{$fa-css-prefix}-angry,
+.#{$fa-css-prefix}-dizzy,
+.#{$fa-css-prefix}-flushed,
+.#{$fa-css-prefix}-frown,
+.#{$fa-css-prefix}-frown-open,
+.#{$fa-css-prefix}-grimace,
+.#{$fa-css-prefix}-grin,
+.#{$fa-css-prefix}-grin-alt,
+.#{$fa-css-prefix}-grin-beam,
+.#{$fa-css-prefix}-grin-beam-sweat,
+.#{$fa-css-prefix}-grin-hearts,
+.#{$fa-css-prefix}-grin-squint,
+.#{$fa-css-prefix}-grin-squint-tears,
+.#{$fa-css-prefix}-grin-stars,
+.#{$fa-css-prefix}-grin-tears,
+.#{$fa-css-prefix}-grin-tongue,
+.#{$fa-css-prefix}-grin-tongue-squint,
+.#{$fa-css-prefix}-grin-tongue-wink,
+.#{$fa-css-prefix}-grin-wink,
+.#{$fa-css-prefix}-kiss,
+.#{$fa-css-prefix}-kiss-beam,
+.#{$fa-css-prefix}-kiss-wink-heart,
+.#{$fa-css-prefix}-laugh,
+.#{$fa-css-prefix}-laugh-beam,
+.#{$fa-css-prefix}-laugh-squint,
+.#{$fa-css-prefix}-laugh-wink,
+.#{$fa-css-prefix}-meh,
+.#{$fa-css-prefix}-meh-blank,
+.#{$fa-css-prefix}-meh-rolling-eyes,
+.#{$fa-css-prefix}-sad-cry,
+.#{$fa-css-prefix}-sad-tear,
+.#{$fa-css-prefix}-smile,
+.#{$fa-css-prefix}-smile-beam,
+.#{$fa-css-prefix}-smile-plus,
+.#{$fa-css-prefix}-smile-wink,
+.#{$fa-css-prefix}-surprise,
+.#{$fa-css-prefix}-tired
+  @extend %emoji
+
+.#{$fa-css-prefix}-grin-hearts,
+.#{$fa-css-prefix}-kiss-wink-heart
+  --fa-primary-color: #{$emoji-heart}
+
+.#{$fa-css-prefix}-dizzy
+  --fa-primary-color: #{$emoji-x}
+
+.#{$fa-css-prefix}-grin-beam-sweat
+  --fa-primary-color: #{$emoji-sweat}
+
+
+.#{$fa-css-prefix}-grin-squint-tears,
+.#{$fa-css-prefix}-grin-tears,
+.#{$fa-css-prefix}-sad-cry,
+.#{$fa-css-prefix}-sad-tear
+  --fa-primary-color: #{$emoji-tears}
+
+.#{$fa-css-prefix}-grin-tongue,
+.#{$fa-css-prefix}-grin-tongue-squint,
+.#{$fa-css-prefix}-grin-tongue-wink
+  --fa-primary-color: #{$emoji-tongue}
