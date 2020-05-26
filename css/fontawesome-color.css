@@ -52,13 +52,6 @@
   --fa-secondary-color: #FF0000;
 }
 
-.fa-dog-leashed {
-  --fa-primary-opacity: 1;
-  --fa-secondary-opacity: 1;
-  --fa-primary-color: #FFFFFF;
-  --fa-secondary-color: #FF0000;
-}
-
 .fa-low-vision {
   --fa-primary-opacity: 1;
   --fa-secondary-opacity: 1;
@@ -134,6 +127,247 @@
   --fa-secondary-opacity: 1;
   --fa-primary-color: #008000;
   --fa-secondary-color: #FFFF00;
+}
+
+.fa-ram,
+.fa-sheep {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-horse,
+.fa-horse-head,
+.fa-horse-saddle {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #d48e33;
+  --fa-secondary-color: #924b00;
+}
+
+.fa-pegasus,
+.fa-unicorn,
+.fa-alicorn {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #cccc04;
+}
+
+.fa-dog,
+.fa-dog-leashed {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #FF0000;
+}
+
+.fa-rabbit,
+.fa-rabbit-fast {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #924b00;
+}
+
+.fa-paw,
+.fa-paw-alt,
+.fa-paw-claws {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #606060;
+  --fa-secondary-color: #000000;
+}
+
+.fa-feather,
+.fa-feather-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #cccc04;
+}
+
+.fa-badger-honey {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #808080;
+}
+
+.fa-bat {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #606060;
+}
+
+.fa-cat {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFA500;
+}
+
+.fa-cat-space {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFA500;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-cow {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFC0CB;
+}
+
+.fa-crow {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFA500;
+}
+
+.fa-deer {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #5a3000;
+}
+
+.fa-deer-rudolph {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #8B0000;
+}
+
+.fa-dove {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #AAAAAA;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-dragon {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #025a02;
+}
+
+.fa-duck {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFF00;
+  --fa-secondary-color: #FFA500;
+}
+
+.fa-elephant {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-frog {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #008000;
+}
+
+.fa-hippo {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #808080;
+}
+
+.fa-kiwi-bird {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFA500;
+}
+
+.fa-monkey {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #d48e33;
+  --fa-secondary-color: #924b00;
+}
+
+.fa-narwhal {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ADD8E6;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-otter {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #d48e33;
+}
+
+.fa-pig {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #f78d9f;
+  --fa-secondary-color: #FFC0CB;
+}
+
+.fa-skull-cow {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-snake {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #025a02;
+}
+
+.fa-spider {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #606060;
+}
+
+.fa-spider-black-widow {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FF0000;
+}
+
+.fa-squirrel {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #d48e33;
+}
+
+.fa-turtle {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #025a02;
+  --fa-secondary-color: #008000;
+}
+
+.fa-whale {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #AAAAAA;
 }
 
 .fa-battery-slash, .fa-battery-empty, .fa-battery-quarter, .fa-battery-half, .fa-battery-three-quarters, .fa-battery-full, .fa-battery-bolt {
