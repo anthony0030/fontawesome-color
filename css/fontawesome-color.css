@@ -262,6 +262,74 @@
   --fa-secondary-color: #924b00;
 }
 
+.fa-comment,
+.fa-comment-alt,
+.fa-comment-alt-dots,
+.fa-comment-alt-lines,
+.fa-comment-lines,
+.fa-comments,
+.fa-comments-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #eeeeee;
+}
+
+.fa-comment-alt-medical,
+.fa-comment-alt-times,
+.fa-comment-alt-minus,
+.fa-comment-alt-slash,
+.fa-comment-medical,
+.fa-comment-minus,
+.fa-comment-slash,
+.fa-comment-times {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #eeeeee;
+}
+
+.fa-comment-alt-check,
+.fa-comment-alt-plus,
+.fa-comment-check,
+.fa-comment-plus,
+.fa-comment-dollar,
+.fa-comment-alt-dollar,
+.fa-comments-dollar,
+.fa-comments-alt-dollar {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #eeeeee;
+}
+
+.fa-comment-dots,
+.fa-comment-edit,
+.fa-comment-alt-edit,
+.fa-comment-smile,
+.fa-comment-alt-smile {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #eeeeee;
+}
+
+.fa-comment-music,
+.fa-comment-alt-music {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ee82ee;
+  --fa-secondary-color: #eeeeee;
+}
+
+.fa-comment-alt-exclamation,
+.fa-comment-exclamation {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFA500;
+  --fa-secondary-color: #eeeeee;
+}
+
 .fa-dice-one,
 .fa-dice-two,
 .fa-dice-three,
