@@ -171,6 +171,43 @@
   --fa-primary-color: #FF0000;
 }
 
+.fa-calendar,
+.fa-calendar-alt,
+.fa-calendar-check,
+.fa-calendar-day,
+.fa-calendar-edit,
+.fa-calendar-exclamation,
+.fa-calendar-minus,
+.fa-calendar-plus,
+.fa-calendar-star,
+.fa-calendar-times,
+.fa-calendar-week {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-calendar-check {
+  --fa-primary-color: #008000;
+}
+
+.fa-calendar-edit {
+  --fa-primary-color: #ADD8E6;
+}
+
+.fa-calendar-exclamation {
+  --fa-primary-color: #FFA500;
+}
+
+.fa-calendar-plus {
+  --fa-primary-color: #008000;
+}
+
+.fa-calendar-star {
+  --fa-primary-color: #FFFF00;
+}
+
 .fa-angry,
 .fa-dizzy,
 .fa-flushed,
@@ -238,6 +275,86 @@
 .fa-grin-tongue-squint,
 .fa-grin-tongue-wink {
   --fa-primary-color: #fb153f;
+}
+
+.fa-hand-heart,
+.fa-hand-holding,
+.fa-hand-holding-box,
+.fa-hand-holding-heart,
+.fa-hand-holding-magic,
+.fa-hand-holding-medical,
+.fa-hand-holding-seedling,
+.fa-hand-holding-usd,
+.fa-hand-holding-water,
+.fa-hand-lizard,
+.fa-hand-middle-finger,
+.fa-hand-paper,
+.fa-hand-peace,
+.fa-hand-point-down,
+.fa-hand-point-left,
+.fa-hand-point-right,
+.fa-hand-point-up,
+.fa-hand-pointer,
+.fa-hand-receiving,
+.fa-hand-rock,
+.fa-hand-scissors,
+.fa-hand-sparkles,
+.fa-hand-spock,
+.fa-hands,
+.fa-hands-heart,
+.fa-hands-helping,
+.fa-hands-usd,
+.fa-hands-wash,
+.fa-handshake,
+.fa-handshake-alt,
+.fa-handshake-alt-slash,
+.fa-handshake-slash {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ffcba4;
+  --fa-secondary-color: #ffcba4;
+}
+
+.fa-hand-holding-box,
+.fa-hand-receiving {
+  --fa-primary-color: #808080;
+}
+
+.fa-hand-holding-heart,
+.fa-hand-holding-medical,
+.fa-hands-heart,
+.fa-handshake-alt-slash,
+.fa-handshake-slash {
+  --fa-primary-color: #FF0000;
+}
+
+.fa-hand-holding-magic,
+.fa-hand-holding-water,
+.fa-hands-wash {
+  --fa-primary-color: #ADD8E6;
+}
+
+.fa-hand-holding-seedling,
+.fa-hand-holding-usd,
+.fa-hands-usd {
+  --fa-primary-color: #008000;
+}
+
+.fa-hand-point-down,
+.fa-hand-point-left,
+.fa-hand-point-right,
+.fa-hand-point-up,
+.fa-handshake {
+  --fa-primary-color: #0000FF;
+}
+
+.fa-hand-sparkles {
+  --fa-primary-color: #FFFF00;
+}
+
+.fa-hand-pointer {
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #FFFFFF;
 }
 
 .fa-user,
