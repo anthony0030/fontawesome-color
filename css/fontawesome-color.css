@@ -262,6 +262,31 @@
   --fa-secondary-color: #924b00;
 }
 
+.fa-dice-one,
+.fa-dice-two,
+.fa-dice-three,
+.fa-dice-four,
+.fa-dice-five,
+.fa-dice-six,
+.fa-dice {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-dice-d4,
+.fa-dice-d6,
+.fa-dice-d8,
+.fa-dice-d10,
+.fa-dice-d12,
+.fa-dice-d20 {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #4b0082;
+  --fa-secondary-color: #ee82ee;
+}
+
 .fa-angry,
 .fa-dizzy,
 .fa-flushed,
