@@ -2292,6 +2292,36 @@
   --fa-secondary-color: #AAAAAA;
 }
 
+.fa-signal,
+.fa-signal-1,
+.fa-signal-2,
+.fa-signal-3,
+.fa-signal-4,
+.fa-signal-alt,
+.fa-signal-alt-1,
+.fa-signal-alt-2,
+.fa-signal-alt-3 {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #808080;
+}
+
+.fa-signal-alt-slash,
+.fa-signal-slash {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #808080;
+}
+
+.fa-signal-stream {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #ADD8E6;
+}
+
 .fa-traffic-cone {
   --fa-primary-opacity: 1;
   --fa-secondary-opacity: 1;
