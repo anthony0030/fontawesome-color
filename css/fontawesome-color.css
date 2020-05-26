@@ -1156,6 +1156,67 @@
   --fa-secondary-color: #0000FF;
 }
 
+.fa-mars-stroke,
+.fa-mars-stroke-h,
+.fa-mars-stroke-v,
+.fa-mars {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: transparent;
+}
+
+.fa-mars-double {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #0000FF;
+}
+
+.fa-venus-mars {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #FFC0CB;
+}
+
+.fa-venus {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFC0CB;
+  --fa-secondary-color: transparent;
+}
+
+.fa-venus-double {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFC0CB;
+  --fa-secondary-color: #FFC0CB;
+}
+
+.fa-mercury {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: transparent;
+}
+
+.fa-neuter,
+.fa-genderless {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: transparent;
+}
+
+.fa-transgender,
+.fa-transgender-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ee82ee;
+  --fa-secondary-color: transparent;
+}
+
 .fa-hand-heart,
 .fa-hand-holding,
 .fa-hand-holding-box,
