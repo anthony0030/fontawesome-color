@@ -208,6 +208,60 @@
   --fa-primary-color: #FFFF00;
 }
 
+.fa-chess-board {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-cloud-sun-rain,
+.fa-clouds-moon,
+.fa-cloud-sun,
+.fa-cloud-moon,
+.fa-cloud-moon-rain,
+.fa-clouds-sun {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-cloud,
+.fa-cloud-drizzle,
+.fa-cloud-hail,
+.fa-cloud-hail-mixed,
+.fa-cloud-rain,
+.fa-cloud-rainbow,
+.fa-cloud-showers,
+.fa-cloud-showers-heavy,
+.fa-cloud-sleet,
+.fa-cloud-snow,
+.fa-clouds {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-cloud-download,
+.fa-cloud-download-alt,
+.fa-cloud-music,
+.fa-cloud-upload,
+.fa-cloud-upload-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ADD8E6;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-cloud-meatball {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #924b00;
+}
+
 .fa-angry,
 .fa-dizzy,
 .fa-flushed,
@@ -275,6 +329,491 @@
 .fa-grin-tongue-squint,
 .fa-grin-tongue-wink {
   --fa-primary-color: #fb153f;
+}
+
+.fa-file,
+.fa-file-alt,
+.fa-file-archive,
+.fa-file-audio,
+.fa-file-certificate,
+.fa-file-chart-line,
+.fa-file-chart-pie,
+.fa-file-check,
+.fa-file-code,
+.fa-file-contract,
+.fa-file-csv,
+.fa-file-download,
+.fa-file-edit,
+.fa-file-excel,
+.fa-file-exclamation,
+.fa-file-export,
+.fa-file-image,
+.fa-file-import,
+.fa-file-invoice,
+.fa-file-invoice-dollar,
+.fa-file-medical,
+.fa-file-medical-alt,
+.fa-file-minus,
+.fa-file-music,
+.fa-file-pdf,
+.fa-file-plus,
+.fa-file-powerpoint,
+.fa-file-prescription,
+.fa-file-search,
+.fa-file-signature,
+.fa-file-spreadsheet,
+.fa-file-times,
+.fa-file-upload,
+.fa-file-user,
+.fa-file-video,
+.fa-file-word,
+.fa-files-medical {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-file {
+  --fa-primary-color: #808080;
+}
+
+.fa-file-alt {
+  --fa-primary-color: #808080;
+}
+
+.fa-file-archive {
+  --fa-primary-color: #000000;
+}
+
+.fa-file-audio {
+  --fa-primary-color: #4b0082;
+}
+
+.fa-file-certificate {
+  --fa-primary-color: #8B0000;
+}
+
+.fa-file-chart-line {
+  --fa-primary-color: #ADD8E6;
+}
+
+.fa-file-chart-pie {
+  --fa-primary-color: #d04423;
+}
+
+.fa-file-check {
+  --fa-primary-color: #008000;
+}
+
+.fa-file-code {
+  --fa-primary-color: #FFFF00;
+}
+
+.fa-file-contract {
+  --fa-primary-color: #008000;
+}
+
+.fa-file-csv {
+  --fa-primary-color: #008000;
+}
+
+.fa-file-download {
+  --fa-primary-color: #008000;
+}
+
+.fa-file-edit {
+  --fa-primary-color: #ADD8E6;
+}
+
+.fa-file-excel {
+  --fa-primary-color: #1d7244;
+}
+
+.fa-file-exclamation {
+  --fa-primary-color: #FFA500;
+}
+
+.fa-file-export {
+  --fa-primary-color: #ADD8E6;
+}
+
+.fa-file-image {
+  --fa-primary-color: #000000;
+}
+
+.fa-file-import {
+  --fa-primary-color: #ADD8E6;
+}
+
+.fa-file-invoice {
+  --fa-primary-color: #808080;
+}
+
+.fa-file-invoice-dollar {
+  --fa-primary-color: #008000;
+}
+
+.fa-file-medical {
+  --fa-primary-color: #FF0000;
+}
+
+.fa-file-medical-alt {
+  --fa-primary-color: #FF0000;
+}
+
+.fa-file-minus {
+  --fa-primary-color: #FF0000;
+}
+
+.fa-file-music {
+  --fa-primary-color: #4b0082;
+}
+
+.fa-file-pdf {
+  --fa-primary-color: #e71d23;
+}
+
+.fa-file-plus {
+  --fa-primary-color: #008000;
+}
+
+.fa-file-powerpoint {
+  --fa-primary-color: #d04423;
+}
+
+.fa-file-prescription {
+  --fa-primary-color: #000000;
+}
+
+.fa-file-search {
+  --fa-primary-color: #0000FF;
+}
+
+.fa-file-signature {
+  --fa-primary-color: #ADD8E6;
+}
+
+.fa-file-spreadsheet {
+  --fa-primary-color: #1d7244;
+}
+
+.fa-file-times {
+  --fa-primary-color: #FF0000;
+}
+
+.fa-file-upload {
+  --fa-primary-color: #0000FF;
+}
+
+.fa-file-user {
+  --fa-primary-color: #ADD8E6;
+}
+
+.fa-file-video {
+  --fa-primary-color: #4b0082;
+}
+
+.fa-file-word {
+  --fa-primary-color: #2b569a;
+}
+
+.fa-files-medical {
+  --fa-primary-color: #FF0000;
+}
+
+.fa-cookie-bite, .fa-cookie {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #d48e33;
+}
+
+.fa-bread-slice, .fa-bread-loaf {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #d48e33;
+}
+
+.fa-drumstick-bite, .fa-drumstick {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-fish-cooked, .fa-fish {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-pizza-slice, .fa-pizza {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #FF0000;
+}
+
+.fa-apple-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #008000;
+}
+
+.fa-apple-crate {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #9ACD32;
+}
+
+.fa-bacon {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ffcba4;
+  --fa-secondary-color: #8B0000;
+}
+
+.fa-burger-soda {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #FF0000;
+}
+
+.fa-burrito {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #d48e33;
+}
+
+.fa-candy-cane {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-candy-corn {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFF00;
+  --fa-secondary-color: #FFA500;
+}
+
+.fa-corn {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-popcorn {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #FFFFE0;
+}
+
+.fa-carrot {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #FFA500;
+}
+
+.fa-cheese {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #cccc04;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-cheese-swiss {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #cccc04;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-cheeseburger {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #d48e33;
+}
+
+.fa-croissant {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #d48e33;
+}
+
+.fa-egg {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ADD8E6;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-egg-fried {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFA500;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-french-fries {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-gingerbread-man {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #924b00;
+}
+
+.fa-hamburger {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #d48e33;
+}
+
+.fa-hotdog {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #d48e33;
+  --fa-secondary-color: #924b00;
+}
+
+.fa-ice-cream {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #d48e33;
+  --fa-secondary-color: #FFC0CB;
+}
+
+.fa-lemon {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #cccc04;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-meat {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-pepper-hot {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #FF0000;
+}
+
+.fa-pumpkin {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFA500;
+  --fa-secondary-color: #008000;
+}
+
+.fa-salad {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ADD8E6;
+  --fa-secondary-color: #008000;
+}
+
+.fa-sandwich {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #d48e33;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-sausage {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #5a3000;
+  --fa-secondary-color: #924b00;
+}
+
+.fa-seedling {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #025a02;
+}
+
+.fa-shish-kebab {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #808080;
+}
+
+.fa-soup {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-steak {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #8B0000;
+  --fa-secondary-color: #924b00;
+}
+
+.fa-stroopwafel {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #d48e33;
+  --fa-secondary-color: #cccc04;
+}
+
+.fa-taco {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #d48e33;
+}
+
+.fa-turkey {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #d48e33;
+}
+
+.fa-wheat {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #cccc04;
+  --fa-secondary-color: #cccc04;
+}
+
+.fa-pie {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #d48e33;
+  --fa-secondary-color: #924b00;
 }
 
 .fa-hand-heart,
@@ -355,6 +894,244 @@
 .fa-hand-pointer {
   --fa-primary-color: #808080;
   --fa-secondary-color: #FFFFFF;
+}
+
+.fa-snowboarding, .fa-sledding, .fa-skiing-nordic, .fa-skiing, .fa-ski-jump, .fa-skating, .fa-running {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #0000FF;
+}
+
+.fa-tennis-ball {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #cccc04;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-volleyball-ball {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #0000FF;
+}
+
+.fa-ball-pile {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #008000;
+}
+
+.fa-baseball-ball {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-basketball-ball {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFA500;
+}
+
+.fa-baseball {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #d48e33;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-bowling-ball {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #808080;
+}
+
+.fa-football-ball {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-football-helmet {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ADD8E6;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-golf-ball {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-futbol {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-quidditch {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #d48e33;
+}
+
+.fa-table-tennis {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-basketball-hoop {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-biking {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #000000;
+}
+
+.fa-biking-mountain {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #000000;
+}
+
+.fa-bowling-pins {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-boxing-glove {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #8B0000;
+}
+
+.fa-cricket {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #5a3000;
+  --fa-secondary-color: #cccc04;
+}
+
+.fa-curling {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #808080;
+}
+
+.fa-dumbbell {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #808080;
+}
+
+.fa-field-hockey {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #cccc04;
+  --fa-secondary-color: #FF0000;
+}
+
+.fa-golf-club {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #606060;
+  --fa-secondary-color: #808080;
+}
+
+.fa-hockey-mask {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-hockey-puck {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #606060;
+}
+
+.fa-hockey-sticks {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #d48e33;
+  --fa-secondary-color: #cccc04;
+}
+
+.fa-ice-skate {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-luchador {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ADD8E6;
+  --fa-secondary-color: #FF0000;
+}
+
+.fa-pennant {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-racquet {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #9ACD32;
+  --fa-secondary-color: #808080;
+}
+
+.fa-shuttlecock {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #AAAAAA;
+  --fa-secondary-color: #cccc04;
+}
+
+.fa-swimmer {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #808080;
+}
+
+.fa-whistle {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #606060;
+  --fa-secondary-color: #808080;
 }
 
 .fa-user,
