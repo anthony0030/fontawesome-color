@@ -1481,6 +1481,48 @@
   --fa-secondary-color: #808080;
 }
 
+.fa-traffic-cone {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFA500;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-traffic-light {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-traffic-light-go {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #008000;
+}
+
+.fa-traffic-light-slow {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFA500;
+}
+
+.fa-traffic-light-stop {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FF0000;
+}
+
+.fa-do-not-enter {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #FFFFFF;
+}
+
 .fa-user,
 .fa-user-alien,
 .fa-user-alt,
