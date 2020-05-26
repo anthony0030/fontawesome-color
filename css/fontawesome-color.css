@@ -1281,6 +1281,24 @@
   --fa-secondary-color: #ffcba4;
 }
 
+.fa-thermometer {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-thermometer-empty,
+.fa-thermometer-full,
+.fa-thermometer-half,
+.fa-thermometer-quarter,
+.fa-thermometer-three-quarters {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #ADD8E6;
+}
+
 .fa-allergies {
   --fa-primary-opacity: 1;
   --fa-secondary-opacity: 1;
@@ -2135,6 +2153,53 @@
   --fa-secondary-color: #FFFFFF;
 }
 
+.fa-trash,
+.fa-trash-alt,
+.fa-trash-restore,
+.fa-trash-restore-alt,
+.fa-trash-undo,
+.fa-trash-undo-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-utensil-fork,
+.fa-utensil-knife,
+.fa-utensil-spoon,
+.fa-utensils,
+.fa-utensils-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #AAAAAA;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-volume,
+.fa-volume-down,
+.fa-volume-up,
+.fa-volume-off {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ADD8E6;
+  --fa-secondary-color: #e28d00;
+}
+
+.fa-volume-mute {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #e28d00;
+}
+
+.fa-volume-slash {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #808080;
+}
+
 .fa-user,
 .fa-user-alien,
 .fa-user-alt,
@@ -2316,7 +2381,7 @@
   --fa-primary-opacity: 1;
   --fa-secondary-opacity: 1;
   --fa-primary-color: #008000;
-  --fa-secondary-color: #FF0000;
+  --fa-secondary-color: #025a02;
 }
 
 /*# sourceMappingURL=fontawesome-color.css.map */
