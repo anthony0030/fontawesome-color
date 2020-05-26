@@ -1156,6 +1156,44 @@
   --fa-secondary-color: #0000FF;
 }
 
+.fa-amp-guitar {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #808080;
+}
+
+.fa-guitar {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #924b00;
+}
+
+.fa-guitar-electric {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FF0000;
+}
+
+.fa-guitars {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #924b00;
+}
+
+.fa-grip-horizontal,
+.fa-grip-lines,
+.fa-grip-lines-vertical,
+.fa-grip-vertical {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #000000;
+}
+
 .fa-mars-stroke,
 .fa-mars-stroke-h,
 .fa-mars-stroke-v,
@@ -1340,6 +1378,88 @@
   --fa-secondary-opacity: 1;
   --fa-primary-color: #FF0000;
   --fa-secondary-color: #ffcba4;
+}
+
+.fa-h-square,
+.fa-h1,
+.fa-h2,
+.fa-h3,
+.fa-h4 {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #0000FF;
+}
+
+.fa-hat-chef {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #AAAAAA;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-hat-cowboy,
+.fa-hat-cowboy-side {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-hat-santa {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #FF0000;
+}
+
+.fa-hat-winter {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #FF0000;
+}
+
+.fa-hat-witch {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #808080;
+}
+
+.fa-hat-wizard {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-hard-hat {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFF00;
+  --fa-secondary-color: #cccc04;
+}
+
+.fa-frosty-head {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-hood-cloak {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #924b00;
+}
+
+.fa-helmet-battle {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #606060;
+  --fa-secondary-color: #FFFFFF;
 }
 
 .fa-thermometer {
