@@ -240,4 +240,138 @@
   --fa-primary-color: #fb153f;
 }
 
+.fa-user,
+.fa-user-alien,
+.fa-user-alt,
+.fa-user-alt-slash,
+.fa-user-astronaut,
+.fa-user-chart,
+.fa-user-check,
+.fa-user-circle,
+.fa-user-clock,
+.fa-user-cog,
+.fa-user-cowboy,
+.fa-user-crown,
+.fa-user-edit,
+.fa-user-friends,
+.fa-user-graduate,
+.fa-user-hard-hat,
+.fa-user-headset,
+.fa-user-injured,
+.fa-user-lock,
+.fa-user-md,
+.fa-user-md-chat,
+.fa-user-minus,
+.fa-user-music,
+.fa-user-ninja,
+.fa-user-nurse,
+.fa-user-plus,
+.fa-user-robot,
+.fa-user-secret,
+.fa-user-shield,
+.fa-user-slash,
+.fa-user-tag,
+.fa-user-tie,
+.fa-user-times,
+.fa-user-unlock,
+.fa-user-visor,
+.fa-users,
+.fa-users-class,
+.fa-users-cog,
+.fa-users-crown,
+.fa-users-medical,
+.fa-users-slash {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #000000;
+}
+
+.fa-user-alien {
+  --fa-secondary-color: #9ACD32;
+}
+
+.fa-user-check,
+.fa-user-chart {
+  --fa-secondary-color: #008000;
+}
+
+.fa-users,
+.fa-user-friends,
+.fa-users-cog,
+.fa-user-tag,
+.fa-user-tie,
+.fa-user-robot,
+.fa-user-edit,
+.fa-user-cog,
+.fa-user-astronaut {
+  --fa-secondary-color: #808080;
+}
+
+.fa-user-slash,
+.fa-users-slash,
+.fa-user-alt-slash {
+  --fa-primary-color: #FF0000;
+}
+
+.fa-users-medical,
+.fa-user-times,
+.fa-user-minus {
+  --fa-secondary-color: #FF0000;
+}
+
+.fa-user-hard-hat {
+  --fa-primary-color: #FFFF00;
+}
+
+.fa-user-crown,
+.fa-users-crown,
+.fa-user-lock,
+.fa-user-unlock {
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-users-class {
+  --fa-secondary-color: #924b00;
+}
+
+.fa-user-visor,
+.fa-user-secret,
+.fa-user-nurse,
+.fa-user-ninja,
+.fa-user-md,
+.fa-user-md-chat,
+.fa-user-graduate,
+.fa-user-cowboy {
+  --fa-secondary-color: #ffcba4;
+}
+
+.fa-user-shield {
+  --fa-secondary-color: #0000FF;
+}
+
+.fa-user-plus {
+  --fa-secondary-color: #FF0000;
+}
+
+.fa-user-music,
+.fa-user-md,
+.fa-user-md-chat {
+  --fa-primary-color: #ADD8E6;
+}
+
+.fa-user-headset,
+.fa-user-clock,
+.fa-user-circle {
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-user-circle {
+  --fa-primary-color: #FFFFFF;
+}
+
+.fa-user-injured {
+  --fa-secondary-color: #FFFFFF;
+}
+
 /*# sourceMappingURL=fontawesome-color.css.map */
