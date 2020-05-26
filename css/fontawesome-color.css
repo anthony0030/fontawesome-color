@@ -909,6 +909,19 @@
   --fa-secondary-color: #924b00;
 }
 
+.fa-globe,
+.fa-globe-africa,
+.fa-globe-americas,
+.fa-globe-asia,
+.fa-globe-europe,
+.fa-globe-snow,
+.fa-globe-stand {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #0000FF;
+}
+
 .fa-hand-heart,
 .fa-hand-holding,
 .fa-hand-holding-box,
