@@ -1236,7 +1236,14 @@
   --fa-secondary-color: #FFFFFF;
 }
 
-.fa-snowboarding, .fa-sledding, .fa-skiing-nordic, .fa-skiing, .fa-ski-jump, .fa-skating, .fa-running {
+.fa-running,
+.fa-skating,
+.fa-ski-jump,
+.fa-skiing,
+.fa-skiing-nordic,
+.fa-sledding,
+.fa-snowboarding,
+.fa-hiking {
   --fa-primary-opacity: 1;
   --fa-secondary-opacity: 1;
   --fa-primary-color: #808080;
@@ -1606,6 +1613,55 @@
 
 .fa-user-injured {
   --fa-secondary-color: #FFFFFF;
+}
+
+.fa-tree {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #924b00;
+}
+
+.fa-tree-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #924b00;
+}
+
+.fa-tree-christmas {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-tree-decorated {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-tree-large {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #008000;
+}
+
+.fa-tree-palm {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #d48e33;
+}
+
+.fa-trees {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #FF0000;
 }
 
 /*# sourceMappingURL=fontawesome-color.css.map */
