@@ -484,12 +484,14 @@
   --fa-secondary-color: #000000;
 }
 
-.fa-arrows,
-.fa-arrows-alt,
-.fa-arrows-alt-h,
-.fa-arrows-alt-v,
-.fa-arrows-h,
-.fa-arrows-v {
+.fa-long-arrow-alt-down,
+.fa-long-arrow-alt-left,
+.fa-long-arrow-alt-right,
+.fa-long-arrow-alt-up,
+.fa-long-arrow-down,
+.fa-long-arrow-left,
+.fa-long-arrow-right,
+.fa-long-arrow-up {
   --fa-primary-opacity: 1;
   --fa-secondary-opacity: 1;
   --fa-primary-color: #000000;
@@ -718,6 +720,36 @@
   --fa-secondary-color: #FFFFFF;
 }
 
+.fa-bus,
+.fa-bus-alt,
+.fa-bus-school {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFF00;
+  --fa-secondary-color: #808080;
+}
+
+.fa-bullseye {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #FF0000;
+}
+
+.fa-bullseye-arrow {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FF0000;
+}
+
+.fa-bullseye-pointer {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #FF0000;
+}
+
 .fa-calendar,
 .fa-calendar-alt,
 .fa-calendar-check,
@@ -753,6 +785,82 @@
 
 .fa-calendar-star {
   --fa-primary-color: #FFFF00;
+}
+
+.fa-check {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #008000;
+}
+
+.fa-check-circle,
+.fa-check-square {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #008000;
+}
+
+.fa-check-double {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #025a02;
+  --fa-secondary-color: #008000;
+}
+
+.fa-chart-area {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ADD8E6;
+  --fa-secondary-color: #000000;
+}
+
+.fa-chart-bar {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #000000;
+}
+
+.fa-chart-line {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #000000;
+}
+
+.fa-chart-line-down {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #000000;
+}
+
+.fa-chart-scatter {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFA500;
+  --fa-secondary-color: #000000;
+}
+
+.fa-chart-network,
+.fa-chart-pie-alt,
+.fa-chart-pie {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-compress,
+.fa-compress-alt,
+.fa-compress-arrows-alt,
+.fa-compress-wide {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #000000;
 }
 
 .fa-chess-board {
@@ -821,7 +929,9 @@
 .fa-car-mechanic,
 .fa-car-side,
 .fa-car-tilt,
-.fa-car-wash {
+.fa-car-wash,
+.fa-caravan,
+.fa-caravan-alt {
   --fa-primary-opacity: 1;
   --fa-secondary-opacity: 1;
   --fa-primary-color: #FF0000;
@@ -958,6 +1068,170 @@
   --fa-secondary-opacity: 1;
   --fa-primary-color: #AAAAAA;
   --fa-secondary-color: #924b00;
+}
+
+.fa-brackets,
+.fa-brackets-curly {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #000000;
+}
+
+.fa-computer-classic,
+.fa-desktop,
+.fa-desktop-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-computer-speaker {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #AAAAAA;
+  --fa-secondary-color: #000000;
+}
+
+.fa-download {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #008000;
+}
+
+.fa-hdd,
+.fa-headphones,
+.fa-headphones-alt,
+.fa-keyboard,
+.fa-save,
+.fa-usb-drive,
+.fa-disc-drive,
+.fa-watch-calculator,
+.fa-phone-laptop,
+.fa-server,
+.fa-stream {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-memory {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #606060;
+  --fa-secondary-color: #008000;
+}
+
+.fa-tablet,
+.fa-tablet-alt,
+.fa-tablet-android,
+.fa-tablet-android-alt,
+.fa-tablet-rugged,
+.fa-mobile,
+.fa-mobile-alt,
+.fa-mobile-android,
+.fa-mobile-android-alt,
+.fa-mp3-player,
+.fa-laptop,
+.fa-laptop-code,
+.fa-laptop-house,
+.fa-tv,
+.fa-tv-alt,
+.fa-tv-music {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #808080;
+}
+
+.fa-mouse,
+.fa-mouse-alt,
+.fa-mouse-pointer,
+.fa-microchip {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #606060;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-print,
+.fa-print-search {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-upload {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ADD8E6;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-sd-card,
+.fa-sim-card,
+.fa-plug {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #cccc04;
+}
+
+.fa-print-slash,
+.fa-webcam-slash {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-webcam,
+.fa-router {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-power-off {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #FF0000;
+}
+
+.fa-tv-retro {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #d48e33;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-speaker,
+.fa-speakers {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #606060;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-satellite,
+.fa-satellite-dish {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-database {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #ADD8E6;
 }
 
 .fa-dice-one,
@@ -1589,6 +1863,112 @@
   --fa-secondary-color: #924b00;
 }
 
+.fa-fire,
+.fa-fire-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFA500;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-fire-extinguisher {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-fireplace,
+.fa-fire-smoke {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #FFA500;
+}
+
+.fa-flower {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFF00;
+  --fa-secondary-color: #FFC0CB;
+}
+
+.fa-flower-daffodil {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFF00;
+  --fa-secondary-color: #008000;
+}
+
+.fa-flower-tulip {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #008000;
+}
+
+.fa-game-board,
+.fa-game-board-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #d48e33;
+}
+
+.fa-game-console-handheld {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-gamepad,
+.fa-gamepad-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-glass {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ADD8E6;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-glass-champagne,
+.fa-glass-cheers,
+.fa-glass-martini,
+.fa-glass-martini-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ADD8E6;
+  --fa-secondary-color: #FFFFE0;
+}
+
+.fa-glass-citrus {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ADD8E6;
+  --fa-secondary-color: #FFA500;
+}
+
+.fa-cocktail {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ADD8E6;
+  --fa-secondary-color: #9ACD32;
+}
+
+.fa-glass-whiskey,
+.fa-glass-whiskey-rocks {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ADD8E6;
+  --fa-secondary-color: #e28d00;
+}
+
 .fa-globe,
 .fa-globe-africa,
 .fa-globe-americas,
@@ -1920,8 +2300,70 @@
 .fa-hourglass-start {
   --fa-primary-opacity: 1;
   --fa-secondary-opacity: 1;
-  --fa-primary-color: #0000FF;
+  --fa-primary-color: #ADD8E6;
   --fa-secondary-color: #cccc04;
+}
+
+.fa-home,
+.fa-home-alt,
+.fa-home-heart,
+.fa-home-lg,
+.fa-home-lg-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #8B0000;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-house {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #8B0000;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-house-day {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #AAAAAA;
+  --fa-secondary-color: #FFA500;
+}
+
+.fa-house-flood {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-house-return,
+.fa-house-leave {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-house-night {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #AAAAAA;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-house-signal {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ADD8E6;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-house-damage,
+.fa-house-user {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #AAAAAA;
 }
 
 .fa-thermometer {
@@ -1969,20 +2411,6 @@
   --fa-secondary-opacity: 1;
   --fa-primary-color: #FF0000;
   --fa-secondary-color: #AAAAAA;
-}
-
-.fa-long-arrow-alt-down,
-.fa-long-arrow-alt-left,
-.fa-long-arrow-alt-right,
-.fa-long-arrow-alt-up,
-.fa-long-arrow-down,
-.fa-long-arrow-left,
-.fa-long-arrow-right,
-.fa-long-arrow-up {
-  --fa-primary-opacity: 1;
-  --fa-secondary-opacity: 1;
-  --fa-primary-color: red;
-  --fa-secondary-color: blue;
 }
 
 .fa-leaf,
@@ -2627,21 +3055,6 @@
   --fa-secondary-color: #808080;
 }
 
-.fa-tablet,
-.fa-tablet-alt,
-.fa-tablet-android,
-.fa-tablet-android-alt,
-.fa-tablet-rugged,
-.fa-mobile,
-.fa-mobile-alt,
-.fa-mobile-android,
-.fa-mobile-android-alt {
-  --fa-primary-opacity: 1;
-  --fa-secondary-opacity: 1;
-  --fa-primary-color: #000000;
-  --fa-secondary-color: #606060;
-}
-
 .fa-moon,
 .fa-moon-stars {
   --fa-primary-opacity: 1;
@@ -2655,15 +3068,6 @@
   --fa-secondary-opacity: 1;
   --fa-primary-color: #FFFFFF;
   --fa-secondary-color: #FFFF00;
-}
-
-.fa-mouse,
-.fa-mouse-alt,
-.fa-mouse-pointer {
-  --fa-primary-opacity: 1;
-  --fa-secondary-opacity: 1;
-  --fa-primary-color: #606060;
-  --fa-secondary-color: #AAAAAA;
 }
 
 .fa-mug {
@@ -2713,21 +3117,6 @@
   --fa-secondary-opacity: 1;
   --fa-primary-color: #008000;
   --fa-secondary-color: #008000;
-}
-
-.fa-print,
-.fa-print-search {
-  --fa-primary-opacity: 1;
-  --fa-secondary-opacity: 1;
-  --fa-primary-color: #808080;
-  --fa-secondary-color: #FFFFFF;
-}
-
-.fa-print-slash {
-  --fa-primary-opacity: 1;
-  --fa-secondary-opacity: 1;
-  --fa-primary-color: #FF0000;
-  --fa-secondary-color: #AAAAAA;
 }
 
 .fa-ruler,
@@ -3376,6 +3765,363 @@
   --fa-secondary-opacity: 1;
   --fa-primary-color: #FFFF00;
   --fa-secondary-color: #AAAAAA;
+}
+
+.fa-abacus {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #d48e33;
+}
+
+.fa-acorn {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #d48e33;
+}
+
+.fa-ad {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-address-book {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-address-card {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-adjust {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-air-conditioner {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-air-freshener {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #9ACD32;
+}
+
+.fa-album {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #808080;
+}
+
+.fa-album-collection {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #808080;
+}
+
+.fa-alien {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #9ACD32;
+}
+
+.fa-alien-monster {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #008000;
+}
+
+.fa-analytics {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #FFA500;
+}
+
+.fa-anchor {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #808080;
+}
+
+.fa-angel {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-ankh {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #000000;
+}
+
+.fa-archive {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #d48e33;
+}
+
+.fa-baby {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ffcba4;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-beer {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-bible {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-bolt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFF00;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-bomb {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFA500;
+}
+
+.fa-cactus {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #025a02;
+  --fa-secondary-color: #008000;
+}
+
+.fa-calculator {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-calculator-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #AAAAAA;
+  --fa-secondary-color: #FFA500;
+}
+
+.fa-campfire {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #FFA500;
+}
+
+.fa-cauldron {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #9ACD32;
+}
+
+.fa-clarinet {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-coin {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #cccc04;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-compass {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-compass-slash {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-construction {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-directions {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-film-canister {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-holly-berry {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #008000;
+}
+
+.fa-jack-o-lantern {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFA500;
+}
+
+.fa-skull {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #808080;
+}
+
+.fa-tint {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-tint-slash {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-typewriter {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-ufo {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-ufo-beam {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-umbrella {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #924b00;
+}
+
+.fa-umbrella-beach {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #808080;
+}
+
+.fa-vr-cardboard {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #d48e33;
+}
+
+.fa-wine-bottle {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-wine-glass {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ADD8E6;
+  --fa-secondary-color: #8B0000;
+}
+
+.fa-wine-glass-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ADD8E6;
+  --fa-secondary-color: #8B0000;
+}
+
+.fa-wrench {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #808080;
+}
+
+.fa-yin-yang {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-camera, .fa-camera-alt, .fa-camera-home, .fa-camera-retro {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #ADD8E6;
 }
 
 /*# sourceMappingURL=fontawesome-color.css.map */
