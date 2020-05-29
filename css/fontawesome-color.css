@@ -405,6 +405,109 @@
   --fa-primary-color: #FF0000;
 }
 
+.fa-badge,
+.fa-badge-check,
+.fa-badge-dollar,
+.fa-badge-percent {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-badge-sheriff {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFF00;
+  --fa-secondary-color: #FFA500;
+}
+
+.fa-border-all,
+.fa-border-bottom,
+.fa-border-center-h,
+.fa-border-center-v,
+.fa-border-inner,
+.fa-border-left,
+.fa-border-none,
+.fa-border-outer,
+.fa-border-right,
+.fa-border-style,
+.fa-border-style-alt,
+.fa-border-top {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #808080;
+}
+
+.fa-book,
+.fa-book-alt,
+.fa-book-dead,
+.fa-book-heart,
+.fa-book-medical,
+.fa-book-open,
+.fa-book-spells,
+.fa-book-user,
+.fa-books {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-bookmark {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-book-open {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-book-reader {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #000000;
+}
+
+.fa-books-medical {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #924b00;
+}
+
+.fa-box,
+.fa-box-alt,
+.fa-box-check,
+.fa-box-fragile,
+.fa-box-full,
+.fa-box-heart,
+.fa-box-open,
+.fa-box-up,
+.fa-box-usd,
+.fa-boxes,
+.fa-boxes-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #d48e33;
+}
+
+.fa-box-ballot,
+.fa-box-tissue {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #FFFFFF;
+}
+
 .fa-calendar,
 .fa-calendar-alt,
 .fa-calendar-check,
@@ -562,6 +665,18 @@
   --fa-secondary-opacity: 1;
   --fa-primary-color: #FFA500;
   --fa-secondary-color: #eeeeee;
+}
+
+.fa-clipboard,
+.fa-clipboard-check,
+.fa-clipboard-list,
+.fa-clipboard-list-check,
+.fa-clipboard-prescription,
+.fa-clipboard-user {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #AAAAAA;
+  --fa-secondary-color: #924b00;
 }
 
 .fa-dice-one,
@@ -847,6 +962,45 @@
 
 .fa-files-medical {
   --fa-primary-color: #FF0000;
+}
+
+.fa-folder,
+.fa-folder-open,
+.fa-folders {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #cccc04;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-folder-tree {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFF00;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-folder-download,
+.fa-folder-upload {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-folder-times,
+.fa-folder-minus {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-folder-plus {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #FFFF00;
 }
 
 .fa-cookie-bite, .fa-cookie {
@@ -1469,6 +1623,9 @@
   --fa-secondary-color: #ADD8E6;
 }
 
+.fa-temperature-high,
+.fa-temperature-hot,
+.fa-temperature-up,
 .fa-thermometer-empty,
 .fa-thermometer-full,
 .fa-thermometer-half,
@@ -1478,6 +1635,116 @@
   --fa-secondary-opacity: 1;
   --fa-primary-color: #FF0000;
   --fa-secondary-color: #ADD8E6;
+}
+
+.fa-temperature-down,
+.fa-temperature-frigid,
+.fa-temperature-low {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-lightbulb,
+.fa-lightbulb-dollar,
+.fa-lightbulb-exclamation,
+.fa-lightbulb-on {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #AAAAAA;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-lightbulb-slash {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-long-arrow-alt-down,
+.fa-long-arrow-alt-left,
+.fa-long-arrow-alt-right,
+.fa-long-arrow-alt-up,
+.fa-long-arrow-down,
+.fa-long-arrow-left,
+.fa-long-arrow-right,
+.fa-long-arrow-up {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: red;
+  --fa-secondary-color: blue;
+}
+
+.fa-leaf,
+.fa-leaf-maple,
+.fa-leaf-oak {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #025a02;
+  --fa-secondary-color: #008000;
+}
+
+.fa-leaf-heart {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #008000;
+}
+
+.fa-map-marked-alt,
+.fa-map-marker,
+.fa-map-marker-alt,
+.fa-map-marker-check,
+.fa-map-marker-edit,
+.fa-map-marker-exclamation,
+.fa-map-marker-minus,
+.fa-map-marker-plus,
+.fa-map-marker-question,
+.fa-map-marker-smile,
+.fa-map-marker-times {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #8B0000;
+  --fa-secondary-color: #FF0000;
+}
+
+.fa-map-pin,
+.fa-map-marker-slash,
+.fa-map-marker-alt-slash {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-thumbtack {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #AAAAAA;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-map {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-map-marked {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #008000;
+}
+
+.fa-map-signs {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #d48e33;
 }
 
 .fa-allergies {
@@ -1583,20 +1850,6 @@
   --fa-secondary-opacity: 1;
   --fa-primary-color: #FF0000;
   --fa-secondary-color: #FFFFFF;
-}
-
-.fa-clipboard-prescription {
-  --fa-primary-opacity: 1;
-  --fa-secondary-opacity: 1;
-  --fa-primary-color: #AAAAAA;
-  --fa-secondary-color: #924b00;
-}
-
-.fa-clipboard-user {
-  --fa-primary-opacity: 1;
-  --fa-secondary-opacity: 1;
-  --fa-primary-color: #AAAAAA;
-  --fa-secondary-color: #924b00;
 }
 
 .fa-crutch {
@@ -2010,6 +2263,143 @@
   --fa-secondary-opacity: 1;
   --fa-primary-color: #000000;
   --fa-secondary-color: #ADD8E6;
+}
+
+.fa-minus,
+.fa-minus-circle,
+.fa-minus-hexagon,
+.fa-minus-octagon,
+.fa-minus-square {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #FF0000;
+}
+
+.fa-money-bill,
+.fa-money-bill-alt,
+.fa-money-bill-wave {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #025a02;
+  --fa-secondary-color: #008000;
+}
+
+.fa-money-bill-wave-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #025a02;
+}
+
+.fa-money-check,
+.fa-money-check-alt,
+.fa-money-check-edit,
+.fa-money-check-edit-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-microphone,
+.fa-microphone-alt,
+.fa-microphone-stand {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #606060;
+}
+
+.fa-microphone-alt-slash,
+.fa-microphone-slash {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #808080;
+}
+
+.fa-mobile,
+.fa-mobile-alt,
+.fa-mobile-android,
+.fa-mobile-android-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #606060;
+}
+
+.fa-moon,
+.fa-moon-stars {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFF00;
+  --fa-secondary-color: #FFFFE0;
+}
+
+.fa-moon-cloud {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-mouse,
+.fa-mouse-alt,
+.fa-mouse-pointer {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #606060;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-mug {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #AAAAAA;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-mug-hot,
+.fa-mug-tea,
+.fa-mug-marshmallows {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #AAAAAA;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-music,
+.fa-music-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #000000;
+}
+
+.fa-music-alt-slash,
+.fa-music-slash {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-plus-circle,
+.fa-plus-hexagon,
+.fa-plus-octagon,
+.fa-plus-square {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #008000;
+}
+
+.fa-plus {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #008000;
 }
 
 .fa-running,
@@ -2593,6 +2983,16 @@
   --fa-secondary-opacity: 1;
   --fa-primary-color: #008000;
   --fa-secondary-color: #025a02;
+}
+
+.fa-lock,
+.fa-lock-alt,
+.fa-lock-open,
+.fa-lock-open-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFF00;
+  --fa-secondary-color: #AAAAAA;
 }
 
 /*# sourceMappingURL=fontawesome-color.css.map */
