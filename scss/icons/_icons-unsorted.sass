@@ -49,9 +49,14 @@
 .#{$fa-css-prefix}-backward
 .#{$fa-css-prefix}-bags-shopping
 .#{$fa-css-prefix}-bahai
-.#{$fa-css-prefix}-balance-scale
-.#{$fa-css-prefix}-balance-scale-left
+
+
+.#{$fa-css-prefix}-balance-scale,
+.#{$fa-css-prefix}-balance-scale-left,
 .#{$fa-css-prefix}-balance-scale-right
+  @include fa-color($yellow-dark)
+
+
 .#{$fa-css-prefix}-ballot
 .#{$fa-css-prefix}-ballot-check
 .#{$fa-css-prefix}-ban
@@ -74,9 +79,13 @@
 .#{$fa-css-prefix}-blanket
 .#{$fa-css-prefix}-blender
 .#{$fa-css-prefix}-blender-phone
-.#{$fa-css-prefix}-blinds
-.#{$fa-css-prefix}-blinds-open
+
+
+.#{$fa-css-prefix}-blinds,
+.#{$fa-css-prefix}-blinds-open,
 .#{$fa-css-prefix}-blinds-raised
+  @include fa-color($black, $gray-light)
+
 .#{$fa-css-prefix}-blog
 .#{$fa-css-prefix}-bold
 .#{$fa-css-prefix}-bolt
@@ -138,7 +147,10 @@
 .#{$fa-css-prefix}-church
 .#{$fa-css-prefix}-circle
 .#{$fa-css-prefix}-circle-notch
+
 .#{$fa-css-prefix}-city
+  @include fa-color($gray-dark, $yellow)
+
 .#{$fa-css-prefix}-clarinet
   @include fa-color($black, $yellow)
 .#{$fa-css-prefix}-claw-marks
@@ -266,13 +278,16 @@
 .#{$fa-css-prefix}-faucet-drip
 .#{$fa-css-prefix}-fax
 .#{$fa-css-prefix}-female
-.#{$fa-css-prefix}-fighter-jet
 .#{$fa-css-prefix}-fill
 .#{$fa-css-prefix}-fill-drip
-.#{$fa-css-prefix}-film
+
+.#{$fa-css-prefix}-film,
 .#{$fa-css-prefix}-film-alt
+  @include fa-color($black, $red-dark)
+
 .#{$fa-css-prefix}-film-canister
   @include fa-color($black, $yellow)
+
 .#{$fa-css-prefix}-filter
 .#{$fa-css-prefix}-fingerprint
 .#{$fa-css-prefix}-flag
@@ -306,28 +321,55 @@
 .#{$fa-css-prefix}-gift
 .#{$fa-css-prefix}-gift-card
 .#{$fa-css-prefix}-gifts
-.#{$fa-css-prefix}-glasses
+
+.#{$fa-css-prefix}-glasses,
 .#{$fa-css-prefix}-glasses-alt
+  @include fa-color($black, $blue-light)
+
+
 .#{$fa-css-prefix}-gopuram
+
 .#{$fa-css-prefix}-graduation-cap
+  @include fa-color($black, $yellow-dark)
+
+
 .#{$fa-css-prefix}-gramophone
 .#{$fa-css-prefix}-greater-than
 .#{$fa-css-prefix}-greater-than-equal
+
 .#{$fa-css-prefix}-hammer
+  @include fa-color($gray-dark, $brown)
+
 .#{$fa-css-prefix}-hammer-war
+  @include fa-color($brown, $gray-dark)
+
 .#{$fa-css-prefix}-hamsa
 .#{$fa-css-prefix}-hanukiah
+
 .#{$fa-css-prefix}-hashtag
+  @include fa-color($gray-dark)
+
 .#{$fa-css-prefix}-heading
 
 .#{$fa-css-prefix}-headset
+
 .#{$fa-css-prefix}-heart-broken
-.#{$fa-css-prefix}-heart-circle
+  @include fa-color($red-dark, $red)
+
+
+.#{$fa-css-prefix}-heart-circle,
 .#{$fa-css-prefix}-heart-square
+  @include fa-color($red, $blue-light)
+
+
 .#{$fa-css-prefix}-heat
 .#{$fa-css-prefix}-helicopter
 .#{$fa-css-prefix}-hexagon
+
 .#{$fa-css-prefix}-highlighter
+  @include fa-color($gray-dark, $yellow)
+
+
 .#{$fa-css-prefix}-history
 .#{$fa-css-prefix}-holly-berry
   @include fa-color($red, $green)
@@ -395,7 +437,10 @@
 .#{$fa-css-prefix}-level-down-alt
 .#{$fa-css-prefix}-level-up
 .#{$fa-css-prefix}-level-up-alt
+
 .#{$fa-css-prefix}-life-ring
+  @include fa-color($white, $orange)
+
 .#{$fa-css-prefix}-light-ceiling
 .#{$fa-css-prefix}-light-switch
 .#{$fa-css-prefix}-light-switch-off
@@ -433,6 +478,8 @@
 .#{$fa-css-prefix}-microwave
 .#{$fa-css-prefix}-mind-share
 .#{$fa-css-prefix}-mistletoe
+  @include fa-color($gray-light, $green)
+
 .#{$fa-css-prefix}-mitten
 .#{$fa-css-prefix}-monument
 .#{$fa-css-prefix}-mosque
@@ -461,7 +508,6 @@
 .#{$fa-css-prefix}-palette
 .#{$fa-css-prefix}-pallet
 .#{$fa-css-prefix}-pallet-alt
-.#{$fa-css-prefix}-paper-plane
 .#{$fa-css-prefix}-paperclip
 .#{$fa-css-prefix}-parachute-box
 .#{$fa-css-prefix}-paragraph
@@ -508,13 +554,6 @@
 .#{$fa-css-prefix}-piano-keyboard
 .#{$fa-css-prefix}-piggy-bank
 .#{$fa-css-prefix}-place-of-worship
-.#{$fa-css-prefix}-plane
-.#{$fa-css-prefix}-plane-alt
-.#{$fa-css-prefix}-plane-arrival
-.#{$fa-css-prefix}-plane-departure
-.#{$fa-css-prefix}-plane-slash
-.#{$fa-css-prefix}-planet-moon
-.#{$fa-css-prefix}-planet-ringed
 .#{$fa-css-prefix}-play
 .#{$fa-css-prefix}-play-circle
 .#{$fa-css-prefix}-podcast
@@ -524,10 +563,23 @@
 .#{$fa-css-prefix}-poll
 .#{$fa-css-prefix}-poll-h
 .#{$fa-css-prefix}-poll-people
+
 .#{$fa-css-prefix}-poo
+  @include fa-color($black, $brown)
+
 .#{$fa-css-prefix}-poo-storm
+  @include fa-color($brown, $yellow)
+
 .#{$fa-css-prefix}-portal-enter
+  @include fa-color($black, $blue-light)
+
 .#{$fa-css-prefix}-portal-exit
+  @include fa-color($black, $orange)
+
+
+
+
+
 .#{$fa-css-prefix}-portrait
 .#{$fa-css-prefix}-pound-sign
 .#{$fa-css-prefix}-pray
@@ -541,7 +593,10 @@
 .#{$fa-css-prefix}-quote-left
 .#{$fa-css-prefix}-quote-right
 .#{$fa-css-prefix}-quran
+
 .#{$fa-css-prefix}-radar
+  @include fa-color($green-dark, $green)
+
 .#{$fa-css-prefix}-radio
 .#{$fa-css-prefix}-radio-alt
 .#{$fa-css-prefix}-rainbow
@@ -587,8 +642,11 @@
 .#{$fa-css-prefix}-rv
 .#{$fa-css-prefix}-sack
 .#{$fa-css-prefix}-sack-dollar
-.#{$fa-css-prefix}-sax-hot
+
+.#{$fa-css-prefix}-sax-hot,
 .#{$fa-css-prefix}-saxophone
+  @include fa-color($orange, $yellow-dark)
+
 .#{$fa-css-prefix}-scarecrow
 .#{$fa-css-prefix}-scarf
 .#{$fa-css-prefix}-school
@@ -691,7 +749,11 @@
 .#{$fa-css-prefix}-sort-size-up
 .#{$fa-css-prefix}-sort-size-up-alt
 .#{$fa-css-prefix}-sort-up
+
 .#{$fa-css-prefix}-spa
+  @include fa-color($pink, $pink-light)
+
+
 .#{$fa-css-prefix}-space-shuttle
 .#{$fa-css-prefix}-space-station-moon
 .#{$fa-css-prefix}-space-station-moon-alt
@@ -899,8 +961,12 @@
 .#{$fa-css-prefix}-window
 .#{$fa-css-prefix}-window-alt
 .#{$fa-css-prefix}-window-close
-.#{$fa-css-prefix}-window-frame
+
+
+.#{$fa-css-prefix}-window-frame,
 .#{$fa-css-prefix}-window-frame-open
+  @include fa-color($brown-light, $blue-light)
+
 .#{$fa-css-prefix}-window-maximize
 .#{$fa-css-prefix}-window-minimize
 .#{$fa-css-prefix}-window-restore
