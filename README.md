@@ -1,3 +1,3 @@
-This Project is not afiliated with fontawsome.
+This Project is not affiliated with Font Awesome.
 
-This project colors the icons fro you
+This project colors the icons for you

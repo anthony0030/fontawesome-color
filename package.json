@@ -1,6 +1,6 @@
 {
   "name": "fontawesome-color",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Custom Color classes for font awesome duotone",
   "main": "index.js",
   "scripts": {
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Veaudry/fontawesome-color.git"
+    "url": "git+https://github.com/anthony00300/fontawesome-color.git"
   },
   "author": "Anthony Veaudry (anthony0030)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Veaudry/fontawesome-color/issues"
+    "url": "https://github.com/anthony00300/fontawesome-color/issues"
   },
-  "homepage": "https://github.com/Veaudry/fontawesome-color#readme",
+  "homepage": "https://github.com/anthony00300/fontawesome-color#readme",
   "dependencies": {
     "sass": "^1.26.5"
   }
