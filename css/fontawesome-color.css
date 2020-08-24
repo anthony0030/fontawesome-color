@@ -892,6 +892,20 @@
   --fa-secondary-color: #000000;
 }
 
+.fa-camcorder,
+.fa-camera,
+.fa-camera-alt,
+.fa-camera-home,
+.fa-camera-movie,
+.fa-camera-polaroid,
+.fa-camera-retro,
+.fa-cctv {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #ADD8E6;
+}
+
 .fa-chess-board {
   --fa-primary-opacity: 1;
   --fa-secondary-opacity: 1;
@@ -4308,6 +4322,77 @@
   --fa-secondary-color: #d48e33;
 }
 
+.fa-bring-forward,
+.fa-bring-front {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-broadcast-tower {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #AAAAAA;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-broom {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #d48e33;
+}
+
+.fa-browser {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #AAAAAA;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-brush {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-bug {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #000000;
+}
+
+.fa-building {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-bullhorn {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-business-time {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-cabinet-filing {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #d48e33;
+}
+
 .fa-cactus {
   --fa-primary-opacity: 1;
   --fa-secondary-opacity: 1;
@@ -4343,11 +4428,61 @@
   --fa-secondary-color: #924b00;
 }
 
+.fa-candle-holder {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #FFA500;
+}
+
+.fa-cart-arrow-down,
+.fa-cart-plus {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-cash-register {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-cassette-tape {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFFF00;
+}
+
 .fa-cauldron {
   --fa-primary-opacity: 1;
   --fa-secondary-opacity: 1;
   --fa-primary-color: #000000;
   --fa-secondary-color: #9ACD32;
+}
+
+.fa-certificate {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFF00;
+  --fa-secondary-color: #FFFFE0;
+}
+
+.fa-chair {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #d48e33;
+  --fa-secondary-color: #d48e33;
+}
+
+.fa-chair-office {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FF0000;
 }
 
 .fa-chalkboard,
@@ -4358,11 +4493,46 @@
   --fa-secondary-color: #d48e33;
 }
 
+.fa-charging-station {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #AAAAAA;
+}
+
 .fa-child {
   --fa-primary-opacity: 1;
   --fa-secondary-opacity: 1;
   --fa-primary-color: #000000;
   --fa-secondary-color: #000000;
+}
+
+.fa-chimney {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #8B0000;
+}
+
+.fa-church {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #000000;
+}
+
+.fa-circle {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-circle-notch {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #ADD8E6;
+  --fa-secondary-color: #ADD8E6;
 }
 
 .fa-city {
@@ -4379,6 +4549,13 @@
   --fa-secondary-color: #FFFF00;
 }
 
+.fa-claw-marks {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #808080;
+}
+
 .fa-clock {
   --fa-primary-opacity: 1;
   --fa-secondary-opacity: 1;
@@ -4386,11 +4563,28 @@
   --fa-secondary-color: #AAAAAA;
 }
 
+.fa-clone {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #ADD8E6;
+}
+
 .fa-club {
   --fa-primary-opacity: 1;
   --fa-secondary-opacity: 1;
   --fa-primary-color: #000000;
   --fa-secondary-color: #000000;
+}
+
+.fa-code,
+.fa-code-branch,
+.fa-code-commit,
+.fa-code-merge {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #ADD8E6;
 }
 
 .fa-coffee {
@@ -4450,6 +4644,13 @@
   --fa-secondary-color: #cccc04;
 }
 
+.fa-columns {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #808080;
+}
+
 .fa-comet {
   --fa-primary-opacity: 1;
   --fa-secondary-opacity: 1;
@@ -4478,11 +4679,33 @@
   --fa-secondary-color: #AAAAAA;
 }
 
+.fa-concierge-bell {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #AAAAAA;
+  --fa-secondary-color: #AAAAAA;
+}
+
 .fa-construction {
   --fa-primary-opacity: 1;
   --fa-secondary-opacity: 1;
   --fa-primary-color: #000000;
   --fa-secondary-color: #FFFF00;
+}
+
+.fa-container-storage {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-conveyor-belt,
+.fa-conveyor-belt-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #d48e33;
 }
 
 .fa-copy {
@@ -4499,11 +4722,119 @@
   --fa-secondary-color: #000000;
 }
 
+.fa-couch {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #8B0000;
+}
+
+.fa-cowbell {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #000000;
+}
+
+.fa-cowbell-more {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #008000;
+}
+
+.fa-credit-card {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-credit-card-blank,
+.fa-credit-card-front {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFF00;
+  --fa-secondary-color: #808080;
+}
+
+.fa-crop,
+.fa-crop-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #000000;
+}
+
+.fa-cross {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFF00;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-crosshairs {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #8B0000;
+  --fa-secondary-color: #FF0000;
+}
+
+.fa-crown {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFF00;
+  --fa-secondary-color: #cccc04;
+}
+
+.fa-cube,
+.fa-cubes {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-cut {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #808080;
+}
+
+.fa-dagger {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #AAAAAA;
+}
+
 .fa-debug {
   --fa-primary-opacity: 1;
   --fa-secondary-opacity: 1;
   --fa-primary-color: #FF0000;
   --fa-secondary-color: #AAAAAA;
+}
+
+.fa-democrat {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #FF0000;
+}
+
+.fa-dewpoint {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-dharmachakra {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #d48e33;
 }
 
 .fa-diamond {
@@ -4527,11 +4858,44 @@
   --fa-secondary-color: #000000;
 }
 
+.fa-dolly,
+.fa-dolly-empty,
+.fa-dolly-flatbed,
+.fa-dolly-flatbed-alt,
+.fa-dolly-flatbed-empty {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #d48e33;
+}
+
 .fa-donate {
   --fa-primary-opacity: 1;
   --fa-secondary-opacity: 1;
   --fa-primary-color: #606060;
   --fa-secondary-color: #FFFF00;
+}
+
+.fa-door-closed,
+.fa-door-open {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #924b00;
+  --fa-secondary-color: #d48e33;
+}
+
+.fa-dot-circle {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #FF0000;
+}
+
+.fa-drafting-compass {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFF00;
+  --fa-secondary-color: #cccc04;
 }
 
 .fa-draw-circle,
@@ -4541,6 +4905,93 @@
   --fa-secondary-opacity: 1;
   --fa-primary-color: #0000FF;
   --fa-secondary-color: #ADD8E6;
+}
+
+.fa-dreidel {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-drone,
+.fa-drone-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-drum {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FF0000;
+  --fa-secondary-color: #FFFF00;
+}
+
+.fa-drum-steelpan {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #808080;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-dryer {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #ADD8E6;
+}
+
+.fa-dryer-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFFFFF;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-dumpster {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #025a02;
+}
+
+.fa-dumpster-fire {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFA500;
+  --fa-secondary-color: #025a02;
+}
+
+.fa-dungeon {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #8B0000;
+  --fa-secondary-color: #d48e33;
+}
+
+.fa-ear-muffs {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #AAAAAA;
+}
+
+.fa-eclipse,
+.fa-eclipse-alt {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #AAAAAA;
+  --fa-secondary-color: #FFA500;
+}
+
+.fa-edit,
+.fa-eject {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #000000;
 }
 
 .fa-ellipsis-h,
@@ -4558,6 +5009,43 @@
   --fa-secondary-opacity: 1;
   --fa-primary-color: #e28d00;
   --fa-secondary-color: #ffb740;
+}
+
+.fa-envelope,
+.fa-envelope-open {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #AAAAAA;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-envelope-open-dollar {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #008000;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-envelope-open-text,
+.fa-envelope-square {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #0000FF;
+  --fa-secondary-color: #FFFFFF;
+}
+
+.fa-equals {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #000000;
+  --fa-secondary-color: #000000;
+}
+
+.fa-eraser {
+  --fa-primary-opacity: 1;
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: #FFC0CB;
+  --fa-secondary-color: #f78d9f;
 }
 
 .fa-eye-slash {
@@ -5320,13 +5808,6 @@
   --fa-secondary-opacity: 1;
   --fa-primary-color: #000000;
   --fa-secondary-color: #FFFFFF;
-}
-
-.fa-camera, .fa-camera-alt, .fa-camera-home, .fa-camera-retro {
-  --fa-primary-opacity: 1;
-  --fa-secondary-opacity: 1;
-  --fa-primary-color: #000000;
-  --fa-secondary-color: #ADD8E6;
 }
 
 /*# sourceMappingURL=fontawesome-color.css.map */
