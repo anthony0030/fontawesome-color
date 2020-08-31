@@ -1,0 +1,132 @@
+$fa-css-prefix:                fa        !default;
+
+// Black and White
+$black:                        #000000ff !default;
+$gray-dark:                    #606060ff !default;
+$gray:                         #808080ff !default;
+$gray-light:                   #aaaaaaff !default;
+$white:                        #ffffffff !default;
+
+// Flesh
+$flesh:                        #ffcba4ff !default;
+$flesh-dark:                   #4d381dff !default;
+
+// Mixed Colors
+$pink-light:                   #ffb6c1ff !default;
+$pink:                         #ffc0Cbff !default;
+$pink-dark:                    #f78d9fff !default;
+
+$brown-light:                  #d48e33ff !default;
+$brown:                        #924b00ff !default;
+$brown-dark:                   #5a3000ff !default;
+
+$cyan-light:                   #17a2b8ff !default;
+$cyan:                         #17a2b8ff !default;
+$cyan-dark:                    #17a2b8ff !default;
+
+
+// Rainbow
+$red-light:                    #ff8181ff !default;
+$red:                          #ff0000ff !default;
+$red-dark:                     #8b0000ff !default;
+
+$orange-light:                 #ffb740ff !default;
+$orange:                       #FFA500ff !default;
+$orange-dark:                  #e28d00ff !default;
+
+$yellow-light:                 #ffffe0ff !default;
+$yellow:                       #ffff00ff !default;
+$yellow-dark:                  #cccc04ff !default;
+
+$green-light:                  #9acd32ff !default;
+$green:                        #008000ff !default;
+$green-dark:                   #025a02ff !default;
+
+$blue-light:                   #add8e6ff !default;
+$blue:                         #0000ffff !default;
+$blue-dark:                    #00008bff !default;
+
+$indigo-light:                 #4b0082ff !default;
+$indigo:                       #4b0082ff !default;
+$indigo-dark:                  #4b0082ff !default;
+
+$violet-light:                 #ee82eeff !default;
+$violet:                       #ee82eeff !default;
+$violet-dark:                  #ee82eeff !default;
+
+
+// Special
+$transparent:                  #00000000 !default;
+
+// Emoji
+$emoji-face:                   #ffdc1eff !default;
+$emoji-eyes:                   #495057ff !default;
+$emoji-tongue:                 #fb153fff !default;
+$emoji-tears:                  #add8e6ff !default;
+$emoji-sweat:                  #add8e6ff !default;
+$emoji-heart:                  #fb153fff !default;
+$emoji-x:                      #adff2fff !default;
+
+// Adobe
+$acrobat-color:                #e71d23ff !default;
+
+// Microsoft
+$word-color:                   #2b569aff !default;
+$power-point-color:            #d04423ff !default;
+$excel-color:                  #1d7244ff !default;
+$one-drive-color:              #0552b1ff !default;
+$one-note-color:               #7f3a78ff !default;
+
+
+// Battery
+$battery-outline:              $gray !default;
+$battery-bolt-color:           $yellow !default;
+$battery-full-color:           $green !default;
+$battery-three-quarters-color: $yellow !default;
+$battery-half-color:           $orange !default;
+$battery-quarter-color:        $red !default;
+$battery-empty-color:          $gray !default;
+$battery-slash-color:          $red !default;
+
+// Files
+$file-primary-color:           $gray              !default;
+$file-secondary-color:         $gray-light        !default;
+$file-medical-color:           $red               !default;
+$file-word-color:              $word-color        !default;
+$file-video-color:             $indigo            !default;
+$file-user-color:              $blue-light        !default;
+$file-upload-color:            $blue              !default;
+$file-times-color:             $red               !default;
+$file-spreadsheet-color:       $excel-color       !default;
+$file-signature-color:         $blue-light        !default;
+$file-search-color:            $blue              !default;
+$file-prescription-color:      $black             !default;
+$file-powerpoint-color:        $power-point-color !default;
+$file-plus-color:              $green             !default;
+$file-plus-color:              $green             !default;
+$file-pdf-color:               $acrobat-color     !default;
+$file-music-color:             $indigo            !default;
+$file-minus-color:             $red               !default;
+$file-medical-alt-color:       $red               !default;
+$file-medical-color:           $red               !default;
+$file-invoice-dollar-color:    $green             !default;
+$file-invoice-color:           $gray              !default;
+$file-import-color:            $blue-light        !default;
+$file-image-color:             $black             !default;
+$file-export-color:            $blue-light        !default;
+$file-exclamation-color:       $orange            !default;
+$file-excel-color:             $excel-color       !default;
+$file-edit-color:              $blue-light        !default;
+$file-download-color:          $green             !default;
+$file-csv-color:               $green             !default;
+$file-contract-color:          $green             !default;
+$file-code-color:              $yellow            !default;
+$file-check-color:             $green             !default;
+$file-chart-pie-color:         $power-point-color !default;
+$file-chart-line-color:        $blue-light        !default;
+$file-certificate-color:       $red-dark          !default;
+$file-audio-color:             $indigo            !default;
+$file-archive-color:           $black             !default;
+$file-alt-color:               $green             !default;
+$file-color:                   $gray              !default;
+$file-file-alt-color:          $gray              !default;
