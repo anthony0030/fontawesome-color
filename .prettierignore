@@ -1,2 +1,3 @@
 # Ignore artifacts:
 css
+_variables.scss
