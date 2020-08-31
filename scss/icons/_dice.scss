@@ -1,0 +1,18 @@
+.#{$fa-css-prefix}-dice-d4,
+.#{$fa-css-prefix}-dice-d6,
+.#{$fa-css-prefix}-dice-d8,
+.#{$fa-css-prefix}-dice-d10,
+.#{$fa-css-prefix}-dice-d12,
+.#{$fa-css-prefix}-dice-d20 {
+  @include fa-color($indigo, $violet);
+}
+
+.#{$fa-css-prefix}-dice-one,
+.#{$fa-css-prefix}-dice-two,
+.#{$fa-css-prefix}-dice-three,
+.#{$fa-css-prefix}-dice-four,
+.#{$fa-css-prefix}-dice-five,
+.#{$fa-css-prefix}-dice-six,
+.#{$fa-css-prefix}-dice {
+  @include fa-color($black, $white);
+}

@@ -1,0 +1,26 @@
+.#{$fa-css-prefix}-head-side,
+.#{$fa-css-prefix}-head-side-headphones,
+.#{$fa-css-prefix}-head-vr {
+  @include fa-color($black, $flesh);
+}
+
+.#{$fa-css-prefix}-head-side-brain {
+  @include fa-color($flesh-dark, $flesh);
+}
+
+.#{$fa-css-prefix}-head-side-cough,
+.#{$fa-css-prefix}-head-side-virus {
+  @include fa-color($green-light, $flesh);
+}
+
+.#{$fa-css-prefix}-head-side-cough-slash {
+  @include fa-color($red, $flesh);
+}
+
+.#{$fa-css-prefix}-head-side-mask {
+  @include fa-color($gray-light, $flesh);
+}
+
+.#{$fa-css-prefix}-head-side-medical {
+  @include fa-color($red, $flesh);
+}

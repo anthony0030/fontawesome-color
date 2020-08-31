@@ -1,0 +1,14 @@
+.#{$fa-css-prefix}-tachometer,
+.#{$fa-css-prefix}-tachometer-alt,
+.#{$fa-css-prefix}-tachometer-alt-average,
+.#{$fa-css-prefix}-tachometer-alt-fast,
+.#{$fa-css-prefix}-tachometer-alt-fastest,
+.#{$fa-css-prefix}-tachometer-alt-slow,
+.#{$fa-css-prefix}-tachometer-alt-slowest,
+.#{$fa-css-prefix}-tachometer-average,
+.#{$fa-css-prefix}-tachometer-fast,
+.#{$fa-css-prefix}-tachometer-fastest,
+.#{$fa-css-prefix}-tachometer-slow,
+.#{$fa-css-prefix}-tachometer-slowest {
+  @include fa-color($red, $black);
+}

@@ -1,0 +1,7 @@
+.#{$fa-css-prefix}-utensil-fork,
+.#{$fa-css-prefix}-utensil-knife,
+.#{$fa-css-prefix}-utensil-spoon,
+.#{$fa-css-prefix}-utensils,
+.#{$fa-css-prefix}-utensils-alt {
+  @include fa-color($gray-light);
+}

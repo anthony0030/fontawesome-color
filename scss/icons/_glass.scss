@@ -1,0 +1,23 @@
+.#{$fa-css-prefix}-glass {
+  @include fa-color($blue-light, $white);
+}
+
+.#{$fa-css-prefix}-glass-champagne,
+.#{$fa-css-prefix}-glass-cheers,
+.#{$fa-css-prefix}-glass-martini,
+.#{$fa-css-prefix}-glass-martini-alt {
+  @include fa-color($blue-light, $yellow-light);
+}
+
+.#{$fa-css-prefix}-glass-citrus {
+  @include fa-color($blue-light, $orange);
+}
+
+.#{$fa-css-prefix}-cocktail {
+  @include fa-color($blue-light, $green-light);
+}
+
+.#{$fa-css-prefix}-glass-whiskey,
+.#{$fa-css-prefix}-glass-whiskey-rocks {
+  @include fa-color($blue-light, $orange-dark);
+}

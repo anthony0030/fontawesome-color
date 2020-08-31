@@ -1,0 +1,187 @@
+.#{$fa-css-prefix}-file,
+.#{$fa-css-prefix}-file-alt,
+.#{$fa-css-prefix}-file-archive,
+.#{$fa-css-prefix}-file-audio,
+.#{$fa-css-prefix}-file-certificate,
+.#{$fa-css-prefix}-file-chart-line,
+.#{$fa-css-prefix}-file-chart-pie,
+.#{$fa-css-prefix}-file-check,
+.#{$fa-css-prefix}-file-code,
+.#{$fa-css-prefix}-file-contract,
+.#{$fa-css-prefix}-file-csv,
+.#{$fa-css-prefix}-file-download,
+.#{$fa-css-prefix}-file-edit,
+.#{$fa-css-prefix}-file-excel,
+.#{$fa-css-prefix}-file-exclamation,
+.#{$fa-css-prefix}-file-export,
+.#{$fa-css-prefix}-file-image,
+.#{$fa-css-prefix}-file-import,
+.#{$fa-css-prefix}-file-invoice,
+.#{$fa-css-prefix}-file-invoice-dollar,
+.#{$fa-css-prefix}-file-medical,
+.#{$fa-css-prefix}-file-medical-alt,
+.#{$fa-css-prefix}-file-minus,
+.#{$fa-css-prefix}-file-music,
+.#{$fa-css-prefix}-file-pdf,
+.#{$fa-css-prefix}-file-plus,
+.#{$fa-css-prefix}-file-powerpoint,
+.#{$fa-css-prefix}-file-prescription,
+.#{$fa-css-prefix}-file-search,
+.#{$fa-css-prefix}-file-signature,
+.#{$fa-css-prefix}-file-spreadsheet,
+.#{$fa-css-prefix}-file-times,
+.#{$fa-css-prefix}-file-upload,
+.#{$fa-css-prefix}-file-user,
+.#{$fa-css-prefix}-file-video,
+.#{$fa-css-prefix}-file-word,
+.#{$fa-css-prefix}-files-medical {
+  @include fa-color($file-primary-color, $file-secondary-color);
+}
+
+.#{$fa-css-prefix}-file {
+  --fa-primary-color: #{$file-color};
+}
+
+.#{$fa-css-prefix}-file-alt {
+  --fa-primary-color: #{$file-file-alt-color};
+}
+
+.#{$fa-css-prefix}-file-archive {
+  --fa-primary-color: #{$file-archive-color};
+}
+
+.#{$fa-css-prefix}-file-audio {
+  --fa-primary-color: #{$file-audio-color};
+}
+
+.#{$fa-css-prefix}-file-certificate {
+  --fa-primary-color: #{$file-certificate-color};
+}
+
+.#{$fa-css-prefix}-file-chart-line {
+  --fa-primary-color: #{$file-chart-line-color};
+}
+
+.#{$fa-css-prefix}-file-chart-pie {
+  --fa-primary-color: #{$file-chart-pie-color};
+}
+
+.#{$fa-css-prefix}-file-check {
+  --fa-primary-color: #{$file-check-color};
+}
+
+.#{$fa-css-prefix}-file-code {
+  --fa-primary-color: #{$file-code-color};
+}
+
+.#{$fa-css-prefix}-file-contract {
+  --fa-primary-color: #{$file-contract-color};
+}
+
+.#{$fa-css-prefix}-file-csv {
+  --fa-primary-color: #{$file-csv-color};
+}
+
+.#{$fa-css-prefix}-file-download {
+  --fa-primary-color: #{$file-download-color};
+}
+
+.#{$fa-css-prefix}-file-edit {
+  --fa-primary-color: #{$file-edit-color};
+}
+
+.#{$fa-css-prefix}-file-excel {
+  --fa-primary-color: #{$file-excel-color};
+}
+
+.#{$fa-css-prefix}-file-exclamation {
+  --fa-primary-color: #{$file-exclamation-color};
+}
+
+.#{$fa-css-prefix}-file-export {
+  --fa-primary-color: #{$file-export-color};
+}
+
+.#{$fa-css-prefix}-file-image {
+  --fa-primary-color: #{$file-image-color};
+}
+
+.#{$fa-css-prefix}-file-import {
+  --fa-primary-color: #{$file-import-color};
+}
+
+.#{$fa-css-prefix}-file-invoice {
+  --fa-primary-color: #{$file-invoice-color};
+}
+
+.#{$fa-css-prefix}-file-invoice-dollar {
+  --fa-primary-color: #{$file-invoice-dollar-color};
+}
+
+.#{$fa-css-prefix}-file-medical {
+  --fa-primary-color: #{$file-medical-color};
+}
+
+.#{$fa-css-prefix}-file-medical-alt {
+  --fa-primary-color: #{$file-medical-alt-color};
+}
+
+.#{$fa-css-prefix}-file-minus {
+  --fa-primary-color: #{$file-minus-color};
+}
+
+.#{$fa-css-prefix}-file-music {
+  --fa-primary-color: #{$file-music-color};
+}
+
+.#{$fa-css-prefix}-file-pdf {
+  --fa-primary-color: #{$file-pdf-color};
+}
+
+.#{$fa-css-prefix}-file-plus {
+  --fa-primary-color: #{$file-plus-color};
+}
+
+.#{$fa-css-prefix}-file-powerpoint {
+  --fa-primary-color: #{$file-powerpoint-color};
+}
+
+.#{$fa-css-prefix}-file-prescription {
+  --fa-primary-color: #{$file-prescription-color};
+}
+
+.#{$fa-css-prefix}-file-search {
+  --fa-primary-color: #{$file-search-color};
+}
+
+.#{$fa-css-prefix}-file-signature {
+  --fa-primary-color: #{$file-signature-color};
+}
+
+.#{$fa-css-prefix}-file-spreadsheet {
+  --fa-primary-color: #{$file-spreadsheet-color};
+}
+
+.#{$fa-css-prefix}-file-times {
+  --fa-primary-color: #{$file-times-color};
+}
+
+.#{$fa-css-prefix}-file-upload {
+  --fa-primary-color: #{$file-upload-color};
+}
+
+.#{$fa-css-prefix}-file-user {
+  --fa-primary-color: #{$file-user-color};
+}
+
+.#{$fa-css-prefix}-file-video {
+  --fa-primary-color: #{$file-video-color};
+}
+
+.#{$fa-css-prefix}-file-word {
+  --fa-primary-color: #{$file-word-color};
+}
+
+.#{$fa-css-prefix}-files-medical {
+  --fa-primary-color: #{$file-medical-color};
+}

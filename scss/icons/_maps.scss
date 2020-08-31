@@ -1,0 +1,35 @@
+.#{$fa-css-prefix}-map-marker,
+.#{$fa-css-prefix}-map-marker-alt,
+.#{$fa-css-prefix}-map-marker-check,
+.#{$fa-css-prefix}-map-marker-edit,
+.#{$fa-css-prefix}-map-marker-exclamation,
+.#{$fa-css-prefix}-map-marker-minus,
+.#{$fa-css-prefix}-map-marker-plus,
+.#{$fa-css-prefix}-map-marker-question,
+.#{$fa-css-prefix}-map-marker-smile,
+.#{$fa-css-prefix}-map-marker-times {
+  @include fa-color($red-dark, $red);
+}
+
+.#{$fa-css-prefix}-map-pin,
+.#{$fa-css-prefix}-map-marker-slash,
+.#{$fa-css-prefix}-map-marker-alt-slash {
+  @include fa-color($red, $gray-light);
+}
+
+.#{$fa-css-prefix}-thumbtack {
+  @include fa-color($gray-light, $yellow);
+}
+
+.#{$fa-css-prefix}-map {
+  @include fa-color($gray-light);
+}
+
+.#{$fa-css-prefix}-map-marked-alt,
+.#{$fa-css-prefix}-map-marked {
+  @include fa-color($red, $gray-light);
+}
+
+.#{$fa-css-prefix}-map-signs {
+  @include fa-color($brown, $brown-light);
+}

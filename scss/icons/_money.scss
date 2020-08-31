@@ -1,0 +1,16 @@
+.#{$fa-css-prefix}-money-bill,
+.#{$fa-css-prefix}-money-bill-alt,
+.#{$fa-css-prefix}-money-bill-wave {
+  @include fa-color($green-dark, $green);
+}
+
+.#{$fa-css-prefix}-money-bill-wave-alt {
+  @include fa-color($green, $green-dark);
+}
+
+.#{$fa-css-prefix}-money-check,
+.#{$fa-css-prefix}-money-check-alt,
+.#{$fa-css-prefix}-money-check-edit,
+.#{$fa-css-prefix}-money-check-edit-alt {
+  @include fa-color($green, $white);
+}

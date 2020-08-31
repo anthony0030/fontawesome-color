@@ -1,0 +1,10 @@
+.#{$fa-css-prefix}-angle-double-down,
+.#{$fa-css-prefix}-angle-double-left,
+.#{$fa-css-prefix}-angle-double-right,
+.#{$fa-css-prefix}-angle-double-up,
+.#{$fa-css-prefix}-angle-down,
+.#{$fa-css-prefix}-angle-left,
+.#{$fa-css-prefix}-angle-right,
+.#{$fa-css-prefix}-angle-up {
+  @include fa-color($black);
+}

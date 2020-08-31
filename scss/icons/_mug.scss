@@ -1,0 +1,9 @@
+.#{$fa-css-prefix}-mug {
+  @include fa-color($gray-light);
+}
+
+.#{$fa-css-prefix}-mug-hot,
+.#{$fa-css-prefix}-mug-tea,
+.#{$fa-css-prefix}-mug-marshmallows {
+  @include fa-color($gray-light, $white);
+}

@@ -1,0 +1,87 @@
+.#{$fa-css-prefix}-arrow-alt-circle-down,
+.#{$fa-css-prefix}-arrow-alt-circle-left,
+.#{$fa-css-prefix}-arrow-alt-circle-right,
+.#{$fa-css-prefix}-arrow-alt-circle-up {
+  @include fa-color($black, $blue-light);
+}
+
+.#{$fa-css-prefix}-arrow-alt-down,
+.#{$fa-css-prefix}-arrow-alt-left,
+.#{$fa-css-prefix}-arrow-alt-right,
+.#{$fa-css-prefix}-arrow-alt-up {
+  @include fa-color($black);
+}
+
+.#{$fa-css-prefix}-arrow-alt-square-down,
+.#{$fa-css-prefix}-arrow-alt-square-left,
+.#{$fa-css-prefix}-arrow-alt-square-right,
+.#{$fa-css-prefix}-arrow-alt-square-up {
+  @include fa-color($black, $blue-light);
+}
+
+.#{$fa-css-prefix}-arrow-circle-down,
+.#{$fa-css-prefix}-arrow-circle-left,
+.#{$fa-css-prefix}-arrow-circle-right,
+.#{$fa-css-prefix}-arrow-circle-up {
+  @include fa-color($black, $blue-light);
+}
+
+.#{$fa-css-prefix}-arrow-alt-from-bottom,
+.#{$fa-css-prefix}-arrow-alt-from-left,
+.#{$fa-css-prefix}-arrow-alt-from-right,
+.#{$fa-css-prefix}-arrow-alt-from-top {
+  @include fa-color($black);
+}
+
+.#{$fa-css-prefix}-arrow-alt-to-bottom,
+.#{$fa-css-prefix}-arrow-alt-to-left,
+.#{$fa-css-prefix}-arrow-alt-to-right,
+.#{$fa-css-prefix}-arrow-alt-to-top {
+  @include fa-color($black);
+}
+.#{$fa-css-prefix}-arrow-from-bottom,
+.#{$fa-css-prefix}-arrow-from-left,
+.#{$fa-css-prefix}-arrow-from-right,
+.#{$fa-css-prefix}-arrow-from-top {
+  @include fa-color($black);
+}
+
+.#{$fa-css-prefix}-arrow-down,
+.#{$fa-css-prefix}-arrow-left,
+.#{$fa-css-prefix}-arrow-right,
+.#{$fa-css-prefix}-arrow-up {
+  @include fa-color($black);
+}
+.#{$fa-css-prefix}-arrow-square-down,
+.#{$fa-css-prefix}-arrow-square-left,
+.#{$fa-css-prefix}-arrow-square-right,
+.#{$fa-css-prefix}-arrow-square-up {
+  @include fa-color($black, $blue-light);
+}
+
+.#{$fa-css-prefix}-arrow-to-bottom,
+.#{$fa-css-prefix}-arrow-to-left,
+.#{$fa-css-prefix}-arrow-to-right,
+.#{$fa-css-prefix}-arrow-to-top {
+  @include fa-color($black);
+}
+
+.#{$fa-css-prefix}-arrows,
+.#{$fa-css-prefix}-arrows-alt,
+.#{$fa-css-prefix}-arrows-alt-h,
+.#{$fa-css-prefix}-arrows-alt-v,
+.#{$fa-css-prefix}-arrows-h,
+.#{$fa-css-prefix}-arrows-v {
+  @include fa-color($black);
+}
+
+.#{$fa-css-prefix}-long-arrow-alt-down,
+.#{$fa-css-prefix}-long-arrow-alt-left,
+.#{$fa-css-prefix}-long-arrow-alt-right,
+.#{$fa-css-prefix}-long-arrow-alt-up,
+.#{$fa-css-prefix}-long-arrow-down,
+.#{$fa-css-prefix}-long-arrow-left,
+.#{$fa-css-prefix}-long-arrow-right,
+.#{$fa-css-prefix}-long-arrow-up {
+  @include fa-color($black);
+}

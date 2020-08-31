@@ -1,0 +1,13 @@
+.#{$fa-css-prefix}-dollar-sign,
+.#{$fa-css-prefix}-euro-sign,
+.#{$fa-css-prefix}-hryvnia,
+.#{$fa-css-prefix}-lira-sign,
+.#{$fa-css-prefix}-pound-sign,
+.#{$fa-css-prefix}-ruble-sign,
+.#{$fa-css-prefix}-rupee-sign,
+.#{$fa-css-prefix}-shekel-sign,
+.#{$fa-css-prefix}-tenge,
+.#{$fa-css-prefix}-won-sign,
+.#{$fa-css-prefix}-yen-sign {
+  @include fa-color($black);
+}

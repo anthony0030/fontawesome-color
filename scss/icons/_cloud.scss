@@ -1,0 +1,34 @@
+.#{$fa-css-prefix}-cloud,
+.#{$fa-css-prefix}-cloud-drizzle,
+.#{$fa-css-prefix}-cloud-hail,
+.#{$fa-css-prefix}-cloud-hail-mixed,
+.#{$fa-css-prefix}-cloud-rain,
+.#{$fa-css-prefix}-cloud-rainbow,
+.#{$fa-css-prefix}-cloud-showers,
+.#{$fa-css-prefix}-cloud-showers-heavy,
+.#{$fa-css-prefix}-cloud-sleet,
+.#{$fa-css-prefix}-cloud-snow,
+.#{$fa-css-prefix}-clouds {
+  @include fa-color($white, $blue-light);
+}
+
+.#{$fa-css-prefix}-cloud-sun-rain,
+.#{$fa-css-prefix}-clouds-moon,
+.#{$fa-css-prefix}-cloud-sun,
+.#{$fa-css-prefix}-cloud-moon,
+.#{$fa-css-prefix}-cloud-moon-rain,
+.#{$fa-css-prefix}-clouds-sun {
+  @include fa-color($white, $yellow);
+}
+
+.#{$fa-css-prefix}-cloud-download,
+.#{$fa-css-prefix}-cloud-download-alt,
+.#{$fa-css-prefix}-cloud-music,
+.#{$fa-css-prefix}-cloud-upload,
+.#{$fa-css-prefix}-cloud-upload-alt {
+  @include fa-color($blue-light, $white);
+}
+
+.#{$fa-css-prefix}-cloud-meatball {
+  @include fa-color($white, $brown);
+}

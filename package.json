@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "sass scss/fontawesome-color.scss css/fontawesome-color.css",
+    "prettier": "prettier --write ./scss",
     "dev": "sass --watch scss/fontawesome-color.sass css/fontawesome-color.css"
   },
   "repository": {
@@ -18,7 +19,8 @@
     "url": "https://github.com/anthony00300/fontawesome-color/issues"
   },
   "homepage": "https://github.com/anthony00300/fontawesome-color#readme",
-  "dependencies": {
-    "sass": "^1.26.5"
+  "devDependencies": {
+    "sass": "^1.26.5",
+    "prettier": "2.1.1"
   }
 }

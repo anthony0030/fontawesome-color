@@ -1,0 +1,49 @@
+.#{$fa-css-prefix}-comment,
+.#{$fa-css-prefix}-comment-alt,
+.#{$fa-css-prefix}-comment-alt-dots,
+.#{$fa-css-prefix}-comment-alt-lines,
+.#{$fa-css-prefix}-comment-lines,
+.#{$fa-css-prefix}-comments,
+.#{$fa-css-prefix}-comments-alt {
+  @include fa-color($black, #eeeeee);
+}
+
+.#{$fa-css-prefix}-comment-alt-medical,
+.#{$fa-css-prefix}-comment-alt-times,
+.#{$fa-css-prefix}-comment-alt-minus,
+.#{$fa-css-prefix}-comment-alt-slash,
+.#{$fa-css-prefix}-comment-medical,
+.#{$fa-css-prefix}-comment-minus,
+.#{$fa-css-prefix}-comment-slash,
+.#{$fa-css-prefix}-comment-times {
+  @include fa-color($red, #eeeeee);
+}
+
+.#{$fa-css-prefix}-comment-dots,
+.#{$fa-css-prefix}-comment-edit,
+.#{$fa-css-prefix}-comment-alt-edit,
+.#{$fa-css-prefix}-comment-smile,
+.#{$fa-css-prefix}-comment-alt-smile {
+  @include fa-color($blue, #eeeeee);
+}
+
+.#{$fa-css-prefix}-comment-alt-check,
+.#{$fa-css-prefix}-comment-alt-plus,
+.#{$fa-css-prefix}-comment-check,
+.#{$fa-css-prefix}-comment-plus,
+.#{$fa-css-prefix}-comment-dollar,
+.#{$fa-css-prefix}-comment-alt-dollar,
+.#{$fa-css-prefix}-comments-dollar,
+.#{$fa-css-prefix}-comments-alt-dollar {
+  @include fa-color($green, #eeeeee);
+}
+
+.#{$fa-css-prefix}-comment-music,
+.#{$fa-css-prefix}-comment-alt-music {
+  @include fa-color($violet, #eeeeee);
+}
+
+.#{$fa-css-prefix}-comment-alt-exclamation,
+.#{$fa-css-prefix}-comment-exclamation {
+  @include fa-color($orange, #eeeeee);
+}
