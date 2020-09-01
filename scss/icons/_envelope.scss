@@ -1,0 +1,13 @@
+.#{$fa-css-prefix}-envelope,
+.#{$fa-css-prefix}-envelope-open {
+  @include fa-color($gray-light, $white);
+}
+
+.#{$fa-css-prefix}-envelope-open-dollar {
+  @include fa-color($green, $white);
+}
+
+.#{$fa-css-prefix}-envelope-open-text,
+.#{$fa-css-prefix}-envelope-square {
+  @include fa-color($blue, $white);
+}

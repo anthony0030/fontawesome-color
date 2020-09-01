@@ -7,3 +7,48 @@
 .#{$fa-css-prefix}-music-slash {
   @include fa-color($red, $gray-light);
 }
+
+
+.#{$fa-css-prefix}-banjo {
+  @include fa-color($brown, $brown-light);
+}
+
+.#{$fa-css-prefix}-boombox {
+  @include fa-color($black, $red);
+}
+
+.#{$fa-css-prefix}-sax-hot,
+.#{$fa-css-prefix}-saxophone {
+  @include fa-color($orange, $yellow-dark);
+}
+.#{$fa-css-prefix}-record-vinyl {
+}
+
+.#{$fa-css-prefix}-radio {
+}
+
+.#{$fa-css-prefix}-radio-alt {
+}
+
+
+.#{$fa-css-prefix}-piano {
+}
+
+
+.#{$fa-css-prefix}-kazoo {
+}
+
+.#{$fa-css-prefix}-gramophone {
+}
+
+.#{$fa-css-prefix}-drum {
+  @include fa-color($red, $yellow);
+}
+
+.#{$fa-css-prefix}-drum-steelpan {
+  @include fa-color($gray, $gray-light);
+}
+
+.#{$fa-css-prefix}-cowbell {
+  @include fa-color($black);
+}

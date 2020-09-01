@@ -1,0 +1,10 @@
+.#{$fa-css-prefix}-parking {
+}
+.#{$fa-css-prefix}-parking-circle {
+}
+.#{$fa-css-prefix}-parking-circle-slash {
+  @include fa-color($red, $gray-light);
+}
+.#{$fa-css-prefix}-parking-slash {
+  @include fa-color($red, $gray-light);
+}

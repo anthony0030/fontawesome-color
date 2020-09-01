@@ -1,0 +1,7 @@
+.#{$fa-css-prefix}-dolly,
+.#{$fa-css-prefix}-dolly-empty,
+.#{$fa-css-prefix}-dolly-flatbed,
+.#{$fa-css-prefix}-dolly-flatbed-alt,
+.#{$fa-css-prefix}-dolly-flatbed-empty {
+  @include fa-color($gray, $brown-light);
+}

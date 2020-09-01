@@ -1,0 +1,18 @@
+.#{$fa-css-prefix}-window {
+}
+.#{$fa-css-prefix}-window-alt {
+}
+.#{$fa-css-prefix}-window-close {
+}
+
+.#{$fa-css-prefix}-window-frame,
+.#{$fa-css-prefix}-window-frame-open {
+  @include fa-color($brown-light, $blue-light);
+}
+
+.#{$fa-css-prefix}-window-maximize {
+}
+.#{$fa-css-prefix}-window-minimize {
+}
+.#{$fa-css-prefix}-window-restore {
+}

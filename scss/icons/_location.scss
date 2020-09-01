@@ -1,0 +1,9 @@
+.#{$fa-css-prefix}-location {
+}
+.#{$fa-css-prefix}-location-arrow {
+}
+.#{$fa-css-prefix}-location-circle {
+}
+.#{$fa-css-prefix}-location-slash {
+  @include fa-color($red, $gray-light);
+}

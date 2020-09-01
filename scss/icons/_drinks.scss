@@ -1,0 +1,35 @@
+.#{$fa-css-prefix}-beer {
+  @include fa-color($blue, $blue-light);
+}
+
+.#{$fa-css-prefix}-wine-bottle {
+  @include fa-color($green, $white);
+}
+
+.#{$fa-css-prefix}-wine-glass {
+  @include fa-color($glass, $red-dark);
+}
+.#{$fa-css-prefix}-wine-glass-alt {
+  @include fa-color($glass, $red-dark);
+}
+
+.#{$fa-css-prefix}-flask,
+.#{$fa-css-prefix}-flask-potion {
+  @include fa-color($glass, $green-light);
+}
+
+.#{$fa-css-prefix}-flask-poison {
+  @include fa-color($gray-dark, $green-light);
+}
+
+.#{$fa-css-prefix}-coffee {
+  @include fa-color($gray-light);
+}
+
+.#{$fa-css-prefix}-coffee-pot {
+  @include fa-color($brown, $blue-light);
+}
+
+.#{$fa-css-prefix}-coffee-togo {
+  @include fa-color($gray-light, $brown-light);
+}
