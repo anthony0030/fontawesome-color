@@ -1,0 +1,44 @@
+.#{$fa-css-prefix}-acorn {
+  @include fa-color($brown, $brown-light);
+}
+
+.#{$fa-css-prefix}-axe {
+  @include fa-color($red, $gray-light);
+}
+
+.#{$fa-css-prefix}-backpack {
+  @include fa-color($brown, $brown-light);
+}
+
+.#{$fa-css-prefix}-binoculars {
+  @include fa-color($black, $gray-dark);
+}
+
+.#{$fa-css-prefix}-boot {
+  @include fa-color($brown, $brown-light);
+}
+
+.#{$fa-css-prefix}-campfire {
+  @include fa-color($brown, $orange);
+}
+
+.#{$fa-css-prefix}-campground {
+  @include fa-color($brown-light, $brown);
+}
+
+.#{$fa-css-prefix}-compass {
+  @include fa-color($red, $blue-light);
+}
+
+.#{$fa-css-prefix}-compass-slash {
+  @include fa-color($red, $gray-light);
+}
+
+.#{$fa-css-prefix}-faucet,
+.#{$fa-css-prefix}-faucet-drip {
+  @include fa-color($blue-light, $gray-light);
+}
+
+.#{$fa-css-prefix}-flashlight {
+  @include fa-color($red, $yellow);
+}

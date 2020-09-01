@@ -10,3 +10,6 @@
 }
 .#{$fa-css-prefix}-greater-than-equal {
 }
+.#{$fa-css-prefix}-abacus {
+  @include fa-color($blue, $brown-light);
+}

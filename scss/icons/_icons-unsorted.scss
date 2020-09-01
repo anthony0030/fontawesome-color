@@ -1,10 +1,5 @@
-.#{$fa-css-prefix}-abacus {
-  @include fa-color($blue, $brown-light);
-}
 
-.#{$fa-css-prefix}-acorn {
-  @include fa-color($brown, $brown-light);
-}
+
 .#{$fa-css-prefix}-ad {
   @include fa-color($black, $yellow);
 }
@@ -68,9 +63,7 @@
   @include fa-color($red, $red-light);
 }
 
-.#{$fa-css-prefix}-axe {
-  @include fa-color($red, $gray-light);
-}
+
 
 .#{$fa-css-prefix}-axe-battle {
   @include fa-color($brown, $gray-light);
@@ -84,9 +77,7 @@
   @include fa-color($gray-light, $black);
 }
 
-.#{$fa-css-prefix}-backpack {
-  @include fa-color($brown, $brown-light);
-}
+
 
 .#{$fa-css-prefix}-backspace {
   @include fa-color($blue, $blue-light);
@@ -152,9 +143,6 @@
   @include fa-color($red, $black);
 }
 
-.#{$fa-css-prefix}-binoculars {
-  @include fa-color($black, $gray-dark);
-}
 
 .#{$fa-css-prefix}-birthday-cake {
   @include fa-color($pink, $yellow);
@@ -189,11 +177,6 @@
 
 .#{$fa-css-prefix}-bomb {
   @include fa-color($black, $orange);
-}
-
-
-.#{$fa-css-prefix}-boot {
-  @include fa-color($brown, $brown-light);
 }
 
 .#{$fa-css-prefix}-booth-curtain {
@@ -259,14 +242,6 @@
 
 .#{$fa-css-prefix}-calculator-alt {
   @include fa-color($gray-light, $orange);
-}
-
-.#{$fa-css-prefix}-campfire {
-  @include fa-color($brown, $orange);
-}
-
-.#{$fa-css-prefix}-campground {
-  @include fa-color($brown-light, $brown);
 }
 
 .#{$fa-css-prefix}-candle-holder {
@@ -385,14 +360,6 @@
 
 .#{$fa-css-prefix}-compact-disc {
   @include fa-color($gray, $gray-light);
-}
-
-.#{$fa-css-prefix}-compass {
-  @include fa-color($red, $blue-light);
-}
-
-.#{$fa-css-prefix}-compass-slash {
-  @include fa-color($red, $gray-light);
 }
 
 .#{$fa-css-prefix}-concierge-bell {
@@ -614,11 +581,6 @@
 .#{$fa-css-prefix}-fast-forward {
 }
 
-.#{$fa-css-prefix}-faucet,
-.#{$fa-css-prefix}-faucet-drip {
-  @include fa-color($blue-light, $gray-light);
-}
-
 .#{$fa-css-prefix}-fax {
 }
 .#{$fa-css-prefix}-female {
@@ -645,10 +607,6 @@
 }
 
 .#{$fa-css-prefix}-flame {
-}
-
-.#{$fa-css-prefix}-flashlight {
-  @include fa-color($red, $yellow);
 }
 
 .#{$fa-css-prefix}-flute {
