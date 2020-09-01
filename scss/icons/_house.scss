@@ -1,29 +1,29 @@
-.#{$fa-css-prefix}-house {
+.#{$fac-css-prefix}-house {
   @include fa-color($red-dark, $gray-light);
 }
 
-.#{$fa-css-prefix}-house-day {
+.#{$fac-css-prefix}-house-day {
   @include fa-color($gray-light, $orange);
 }
 
-.#{$fa-css-prefix}-house-flood {
+.#{$fac-css-prefix}-house-flood {
   @include fa-color($blue, $gray-light);
 }
 
-.#{$fa-css-prefix}-house-return,
-.#{$fa-css-prefix}-house-leave {
+.#{$fac-css-prefix}-house-return,
+.#{$fac-css-prefix}-house-leave {
   @include fa-color($black, $gray-light);
 }
 
-.#{$fa-css-prefix}-house-night {
+.#{$fac-css-prefix}-house-night {
   @include fa-color($gray-light, $yellow);
 }
 
-.#{$fa-css-prefix}-house-signal {
+.#{$fac-css-prefix}-house-signal {
   @include fa-color($blue-light, $gray-light);
 }
 
-.#{$fa-css-prefix}-house-damage,
-.#{$fa-css-prefix}-house-user {
+.#{$fac-css-prefix}-house-damage,
+.#{$fac-css-prefix}-house-user {
   @include fa-color($black, $gray-light);
 }

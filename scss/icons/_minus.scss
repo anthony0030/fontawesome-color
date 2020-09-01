@@ -1,7 +1,7 @@
-.#{$fa-css-prefix}-minus,
-.#{$fa-css-prefix}-minus-circle,
-.#{$fa-css-prefix}-minus-hexagon,
-.#{$fa-css-prefix}-minus-octagon,
-.#{$fa-css-prefix}-minus-square {
+.#{$fac-css-prefix}-minus,
+.#{$fac-css-prefix}-minus-circle,
+.#{$fac-css-prefix}-minus-hexagon,
+.#{$fac-css-prefix}-minus-octagon,
+.#{$fac-css-prefix}-minus-square {
   @include fa-color($white, $red);
 }

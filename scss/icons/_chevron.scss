@@ -1,21 +1,21 @@
-.#{$fa-css-prefix}-chevron-circle-down,
-.#{$fa-css-prefix}-chevron-circle-left,
-.#{$fa-css-prefix}-chevron-circle-right,
-.#{$fa-css-prefix}-chevron-circle-up,
-.#{$fa-css-prefix}-chevron-square-down,
-.#{$fa-css-prefix}-chevron-square-left,
-.#{$fa-css-prefix}-chevron-square-right,
-.#{$fa-css-prefix}-chevron-square-up {
+.#{$fac-css-prefix}-chevron-circle-down,
+.#{$fac-css-prefix}-chevron-circle-left,
+.#{$fac-css-prefix}-chevron-circle-right,
+.#{$fac-css-prefix}-chevron-circle-up,
+.#{$fac-css-prefix}-chevron-square-down,
+.#{$fac-css-prefix}-chevron-square-left,
+.#{$fac-css-prefix}-chevron-square-right,
+.#{$fac-css-prefix}-chevron-square-up {
   @include fa-color($black, $blue-light);
 }
 
-.#{$fa-css-prefix}-chevron-down,
-.#{$fa-css-prefix}-chevron-left,
-.#{$fa-css-prefix}-chevron-right,
-.#{$fa-css-prefix}-chevron-up,
-.#{$fa-css-prefix}-chevron-double-down,
-.#{$fa-css-prefix}-chevron-double-left,
-.#{$fa-css-prefix}-chevron-double-right,
-.#{$fa-css-prefix}-chevron-double-up {
+.#{$fac-css-prefix}-chevron-down,
+.#{$fac-css-prefix}-chevron-left,
+.#{$fac-css-prefix}-chevron-right,
+.#{$fac-css-prefix}-chevron-up,
+.#{$fac-css-prefix}-chevron-double-down,
+.#{$fac-css-prefix}-chevron-double-left,
+.#{$fac-css-prefix}-chevron-double-right,
+.#{$fac-css-prefix}-chevron-double-up {
   @include fa-color($black);
 }

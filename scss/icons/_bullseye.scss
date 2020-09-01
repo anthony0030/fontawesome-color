@@ -1,11 +1,11 @@
-.#{$fa-css-prefix}-bullseye {
+.#{$fac-css-prefix}-bullseye {
   @include fa-color($red);
 }
 
-.#{$fa-css-prefix}-bullseye-arrow {
+.#{$fac-css-prefix}-bullseye-arrow {
   @include fa-color($black, $red);
 }
 
-.#{$fa-css-prefix}-bullseye-pointer {
+.#{$fac-css-prefix}-bullseye-pointer {
   @include fa-color($white, $red);
 }

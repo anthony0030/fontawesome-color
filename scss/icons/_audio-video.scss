@@ -1,11 +1,11 @@
-.#{$fa-css-prefix}-video {
+.#{$fac-css-prefix}-video {
   @include fa-color($gray-light);
 }
 
-.#{$fa-css-prefix}-video-plus {
+.#{$fac-css-prefix}-video-plus {
   @include fa-color($gray-light, $green);
 }
 
-.#{$fa-css-prefix}-video-slash {
+.#{$fac-css-prefix}-video-slash {
   @include fa-color($red, $gray-light);
 }

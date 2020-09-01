@@ -1,13 +1,13 @@
-.#{$fa-css-prefix}-fire,
-.#{$fa-css-prefix}-fire-alt {
+.#{$fac-css-prefix}-fire,
+.#{$fac-css-prefix}-fire-alt {
   @include fa-color($orange, $yellow);
 }
 
-.#{$fa-css-prefix}-fire-extinguisher {
+.#{$fac-css-prefix}-fire-extinguisher {
   @include fa-color($red, $gray-light);
 }
 
-.#{$fa-css-prefix}-fireplace,
-.#{$fa-css-prefix}-fire-smoke {
+.#{$fac-css-prefix}-fireplace,
+.#{$fac-css-prefix}-fire-smoke {
   @include fa-color($gray, $orange);
 }

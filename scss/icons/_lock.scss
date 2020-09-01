@@ -1,8 +1,8 @@
-.#{$fa-css-prefix}-lock,
-.#{$fa-css-prefix}-lock-alt,
-.#{$fa-css-prefix}-lock-open,
-.#{$fa-css-prefix}-lock-open-alt,
-.#{$fa-css-prefix}-unlock,
-.#{$fa-css-prefix}-unlock-alt {
+.#{$fac-css-prefix}-lock,
+.#{$fac-css-prefix}-lock-alt,
+.#{$fac-css-prefix}-lock-open,
+.#{$fac-css-prefix}-lock-open-alt,
+.#{$fac-css-prefix}-unlock,
+.#{$fac-css-prefix}-unlock-alt {
   @include fa-color($yellow, $gray-light);
 }

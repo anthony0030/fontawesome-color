@@ -1,25 +1,25 @@
-.#{$fa-css-prefix}-chart-area {
+.#{$fac-css-prefix}-chart-area {
   @include fa-color($blue-light, $black);
 }
 
-.#{$fa-css-prefix}-chart-bar {
+.#{$fac-css-prefix}-chart-bar {
   @include fa-color($blue, $black);
 }
 
-.#{$fa-css-prefix}-chart-line {
+.#{$fac-css-prefix}-chart-line {
   @include fa-color($green, $black);
 }
 
-.#{$fa-css-prefix}-chart-line-down {
+.#{$fac-css-prefix}-chart-line-down {
   @include fa-color($red, $black);
 }
 
-.#{$fa-css-prefix}-chart-scatter {
+.#{$fac-css-prefix}-chart-scatter {
   @include fa-color($orange, $black);
 }
 
-.#{$fa-css-prefix}-chart-network,
-.#{$fa-css-prefix}-chart-pie-alt,
-.#{$fa-css-prefix}-chart-pie {
+.#{$fac-css-prefix}-chart-network,
+.#{$fac-css-prefix}-chart-pie-alt,
+.#{$fac-css-prefix}-chart-pie {
   @include fa-color($blue, $blue-light);
 }

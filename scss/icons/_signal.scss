@@ -1,20 +1,20 @@
-.#{$fa-css-prefix}-signal,
-.#{$fa-css-prefix}-signal-1,
-.#{$fa-css-prefix}-signal-2,
-.#{$fa-css-prefix}-signal-3,
-.#{$fa-css-prefix}-signal-4,
-.#{$fa-css-prefix}-signal-alt,
-.#{$fa-css-prefix}-signal-alt-1,
-.#{$fa-css-prefix}-signal-alt-2,
-.#{$fa-css-prefix}-signal-alt-3 {
+.#{$fac-css-prefix}-signal,
+.#{$fac-css-prefix}-signal-1,
+.#{$fac-css-prefix}-signal-2,
+.#{$fac-css-prefix}-signal-3,
+.#{$fac-css-prefix}-signal-4,
+.#{$fac-css-prefix}-signal-alt,
+.#{$fac-css-prefix}-signal-alt-1,
+.#{$fac-css-prefix}-signal-alt-2,
+.#{$fac-css-prefix}-signal-alt-3 {
   @include fa-color($black, $gray);
 }
 
-.#{$fa-css-prefix}-signal-alt-slash,
-.#{$fa-css-prefix}-signal-slash {
+.#{$fac-css-prefix}-signal-alt-slash,
+.#{$fac-css-prefix}-signal-slash {
   @include fa-color($red, $gray);
 }
 
-.#{$fa-css-prefix}-signal-stream {
+.#{$fac-css-prefix}-signal-stream {
   @include fa-color($blue, $blue-light);
 }

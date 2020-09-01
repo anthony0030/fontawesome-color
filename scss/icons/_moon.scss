@@ -1,8 +1,8 @@
-.#{$fa-css-prefix}-moon,
-.#{$fa-css-prefix}-moon-stars {
+.#{$fac-css-prefix}-moon,
+.#{$fac-css-prefix}-moon-stars {
   @include fa-color($yellow, $yellow-light);
 }
 
-.#{$fa-css-prefix}-moon-cloud {
+.#{$fac-css-prefix}-moon-cloud {
   @include fa-color($white, $yellow);
 }

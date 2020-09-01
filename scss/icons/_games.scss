@@ -1,18 +1,18 @@
-.#{$fa-css-prefix}-game-board,
-.#{$fa-css-prefix}-game-board-alt {
+.#{$fac-css-prefix}-game-board,
+.#{$fac-css-prefix}-game-board-alt {
   @include fa-color($black, $brown-light);
 }
 
-.#{$fa-css-prefix}-game-console-handheld {
+.#{$fac-css-prefix}-game-console-handheld {
   @include fa-color($black, $gray-light);
 }
 
-.#{$fa-css-prefix}-gamepad,
-.#{$fa-css-prefix}-gamepad-alt {
+.#{$fac-css-prefix}-gamepad,
+.#{$fac-css-prefix}-gamepad-alt {
   @include fa-color($red, $gray-light);
 }
 
 
 
-.#{$fa-css-prefix}-joystick {
+.#{$fac-css-prefix}-joystick {
 }

@@ -1,107 +1,107 @@
-.#{$fa-css-prefix}-music,
-.#{$fa-css-prefix}-music-alt {
+.#{$fac-css-prefix}-music,
+.#{$fac-css-prefix}-music-alt {
   @include fa-color($black);
 }
 
-.#{$fa-css-prefix}-music-alt-slash,
-.#{$fa-css-prefix}-music-slash {
+.#{$fac-css-prefix}-music-alt-slash,
+.#{$fac-css-prefix}-music-slash {
   @include fa-color($red, $gray-light);
 }
 
-.#{$fa-css-prefix}-banjo {
+.#{$fac-css-prefix}-banjo {
   @include fa-color($brown, $brown-light);
 }
 
-.#{$fa-css-prefix}-boombox {
+.#{$fac-css-prefix}-boombox {
   @include fa-color($black, $red);
 }
 
-.#{$fa-css-prefix}-sax-hot,
-.#{$fa-css-prefix}-saxophone {
+.#{$fac-css-prefix}-sax-hot,
+.#{$fac-css-prefix}-saxophone {
   @include fa-color($orange, $yellow-dark);
 }
-.#{$fa-css-prefix}-record-vinyl {
+.#{$fac-css-prefix}-record-vinyl {
 }
 
-.#{$fa-css-prefix}-radio {
+.#{$fac-css-prefix}-radio {
 }
 
-.#{$fa-css-prefix}-radio-alt {
+.#{$fac-css-prefix}-radio-alt {
 }
 
-.#{$fa-css-prefix}-piano {
+.#{$fac-css-prefix}-piano {
 }
 
-.#{$fa-css-prefix}-piano-keyboard {
+.#{$fac-css-prefix}-piano-keyboard {
 }
 
-.#{$fa-css-prefix}-kazoo {
+.#{$fac-css-prefix}-kazoo {
 }
 
-.#{$fa-css-prefix}-gramophone {
+.#{$fac-css-prefix}-gramophone {
 }
 
-.#{$fa-css-prefix}-drum {
+.#{$fac-css-prefix}-drum {
   @include fa-color($red, $yellow);
 }
 
-.#{$fa-css-prefix}-drum-steelpan {
+.#{$fac-css-prefix}-drum-steelpan {
   @include fa-color($gray, $gray-light);
 }
 
-.#{$fa-css-prefix}-cowbell {
+.#{$fac-css-prefix}-cowbell {
   @include fa-color($black);
 }
 
-.#{$fa-css-prefix}-cowbell-more {
+.#{$fac-css-prefix}-cowbell-more {
   @include fa-color($black, $green);
 }
 
-.#{$fa-css-prefix}-flute {
+.#{$fac-css-prefix}-flute {
 }
 
-.#{$fa-css-prefix}-album {
+.#{$fac-css-prefix}-album {
   @include fa-color($black, $gray);
 }
-.#{$fa-css-prefix}-album-collection {
-  @include fa-color($black, $gray);
-}
-
-.#{$fa-css-prefix}-amp-guitar {
+.#{$fac-css-prefix}-album-collection {
   @include fa-color($black, $gray);
 }
 
-.#{$fa-css-prefix}-guitar {
+.#{$fac-css-prefix}-amp-guitar {
+  @include fa-color($black, $gray);
+}
+
+.#{$fac-css-prefix}-guitar {
   @include fa-color($black, $brown);
 }
 
-.#{$fa-css-prefix}-guitar-electric {
+.#{$fac-css-prefix}-guitar-electric {
   @include fa-color($black, $red);
 }
 
-.#{$fa-css-prefix}-guitars {
+.#{$fac-css-prefix}-guitars {
   @include fa-color($red, $brown);
 }
 
-.#{$fa-css-prefix}-cassette-tape {
+.#{$fac-css-prefix}-cassette-tape {
   @include fa-color($black, $yellow);
 }
 
-.#{$fa-css-prefix}-clarinet {
+.#{$fac-css-prefix}-clarinet {
   @include fa-color($black, $yellow);
 }
 
-.#{$fa-css-prefix}-mandolin {
+.#{$fac-css-prefix}-mandolin {
 }
 
-.#{$fa-css-prefix}-triangle-music {
+.#{$fac-css-prefix}-triangle-music {
   @include fa-color($gray-light);
 }
 
-.#{$fa-css-prefix}-trumpet {
+.#{$fac-css-prefix}-trumpet {
 }
 
-.#{$fa-css-prefix}-turntable {
+.#{$fac-css-prefix}-turntable {
 }
-.#{$fa-css-prefix}-violin {
+.#{$fac-css-prefix}-violin {
 }

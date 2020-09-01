@@ -1,15 +1,15 @@
-.#{$fa-css-prefix}-less-than {
+.#{$fac-css-prefix}-less-than {
 }
-.#{$fa-css-prefix}-less-than-equal {
-}
-
-.#{$fa-css-prefix}-lambda {
+.#{$fac-css-prefix}-less-than-equal {
 }
 
-.#{$fa-css-prefix}-greater-than {
+.#{$fac-css-prefix}-lambda {
 }
-.#{$fa-css-prefix}-greater-than-equal {
+
+.#{$fac-css-prefix}-greater-than {
 }
-.#{$fa-css-prefix}-abacus {
+.#{$fac-css-prefix}-greater-than-equal {
+}
+.#{$fac-css-prefix}-abacus {
   @include fa-color($blue, $brown-light);
 }

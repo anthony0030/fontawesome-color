@@ -1,23 +1,23 @@
-.#{$fa-css-prefix}-phone,
-.#{$fa-css-prefix}-phone-alt {
+.#{$fac-css-prefix}-phone,
+.#{$fac-css-prefix}-phone-alt {
   @include fa-color($red-dark, $red);
 }
 
-.#{$fa-css-prefix}-phone-office {
+.#{$fac-css-prefix}-phone-office {
 }
 
-.#{$fa-css-prefix}-phone-plus {
+.#{$fac-css-prefix}-phone-plus {
   @include fa-color($red, $green);
 }
 
-.#{$fa-css-prefix}-phone-rotary {
+.#{$fac-css-prefix}-phone-rotary {
 }
 
-.#{$fa-css-prefix}-phone-slash {
+.#{$fac-css-prefix}-phone-slash {
   @include fa-color($red, $gray-light);
 }
 
-.#{$fa-css-prefix}-phone-square {
+.#{$fac-css-prefix}-phone-square {
 }
-.#{$fa-css-prefix}-phone-square-alt {
+.#{$fac-css-prefix}-phone-square-alt {
 }

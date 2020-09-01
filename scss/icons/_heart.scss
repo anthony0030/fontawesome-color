@@ -1,8 +1,8 @@
-.#{$fa-css-prefix}-heart-broken {
+.#{$fac-css-prefix}-heart-broken {
   @include fa-color($red-dark, $red);
 }
 
-.#{$fa-css-prefix}-heart-circle,
-.#{$fa-css-prefix}-heart-square {
+.#{$fac-css-prefix}-heart-circle,
+.#{$fac-css-prefix}-heart-square {
   @include fa-color($red, $blue-light);
 }

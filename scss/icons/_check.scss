@@ -1,12 +1,12 @@
-.#{$fa-css-prefix}-check {
+.#{$fac-css-prefix}-check {
   @include fa-color($green);
 }
 
-.#{$fa-css-prefix}-check-circle,
-.#{$fa-css-prefix}-check-square {
+.#{$fac-css-prefix}-check-circle,
+.#{$fac-css-prefix}-check-square {
   @include fa-color($white, $green);
 }
 
-.#{$fa-css-prefix}-check-double {
+.#{$fac-css-prefix}-check-double {
   @include fa-color($green-dark, $green);
 }

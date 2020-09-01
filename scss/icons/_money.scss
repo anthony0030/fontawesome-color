@@ -1,34 +1,34 @@
-.#{$fa-css-prefix}-money-bill,
-.#{$fa-css-prefix}-money-bill-alt,
-.#{$fa-css-prefix}-money-bill-wave {
+.#{$fac-css-prefix}-money-bill,
+.#{$fac-css-prefix}-money-bill-alt,
+.#{$fac-css-prefix}-money-bill-wave {
   @include fa-color($green-dark, $green);
 }
 
-.#{$fa-css-prefix}-money-bill-wave-alt {
+.#{$fac-css-prefix}-money-bill-wave-alt {
   @include fa-color($green, $green-dark);
 }
 
-.#{$fa-css-prefix}-money-check,
-.#{$fa-css-prefix}-money-check-alt,
-.#{$fa-css-prefix}-money-check-edit,
-.#{$fa-css-prefix}-money-check-edit-alt {
+.#{$fac-css-prefix}-money-check,
+.#{$fac-css-prefix}-money-check-alt,
+.#{$fac-css-prefix}-money-check-edit,
+.#{$fac-css-prefix}-money-check-edit-alt {
   @include fa-color($green, $white);
 }
 
-.#{$fa-css-prefix}-usd-circle,
-.#{$fa-css-prefix}-usd-square {
+.#{$fac-css-prefix}-usd-circle,
+.#{$fac-css-prefix}-usd-square {
   @include fa-color($green-dark, $green);
 }
 
-.#{$fa-css-prefix}-exchange {
+.#{$fac-css-prefix}-exchange {
 }
-.#{$fa-css-prefix}-exchange-alt {
+.#{$fac-css-prefix}-exchange-alt {
 }
 
-.#{$fa-css-prefix}-coin {
+.#{$fac-css-prefix}-coin {
   @include fa-color($yellow-dark, $yellow);
 }
 
-.#{$fa-css-prefix}-coins {
+.#{$fac-css-prefix}-coins {
   @include fa-color($yellow, $yellow-dark);
 }

@@ -1,10 +1,10 @@
-.#{$fa-css-prefix}-camcorder,
-.#{$fa-css-prefix}-camera,
-.#{$fa-css-prefix}-camera-alt,
-.#{$fa-css-prefix}-camera-home,
-.#{$fa-css-prefix}-camera-movie,
-.#{$fa-css-prefix}-camera-polaroid,
-.#{$fa-css-prefix}-camera-retro,
-.#{$fa-css-prefix}-cctv {
+.#{$fac-css-prefix}-camcorder,
+.#{$fac-css-prefix}-camera,
+.#{$fac-css-prefix}-camera-alt,
+.#{$fac-css-prefix}-camera-home,
+.#{$fac-css-prefix}-camera-movie,
+.#{$fac-css-prefix}-camera-polaroid,
+.#{$fac-css-prefix}-camera-retro,
+.#{$fac-css-prefix}-cctv {
   @include fa-color($black, $blue-light);
 }

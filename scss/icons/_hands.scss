@@ -1,82 +1,82 @@
-.#{$fa-css-prefix}-hand-heart,
-.#{$fa-css-prefix}-hand-holding,
-.#{$fa-css-prefix}-hand-holding-box,
-.#{$fa-css-prefix}-hand-holding-heart,
-.#{$fa-css-prefix}-hand-holding-magic,
-.#{$fa-css-prefix}-hand-holding-medical,
-.#{$fa-css-prefix}-hand-holding-seedling,
-.#{$fa-css-prefix}-hand-holding-usd,
-.#{$fa-css-prefix}-hand-holding-water,
-.#{$fa-css-prefix}-hand-lizard,
-.#{$fa-css-prefix}-hand-middle-finger,
-.#{$fa-css-prefix}-hand-paper,
-.#{$fa-css-prefix}-hand-peace,
-.#{$fa-css-prefix}-hand-point-down,
-.#{$fa-css-prefix}-hand-point-left,
-.#{$fa-css-prefix}-hand-point-right,
-.#{$fa-css-prefix}-hand-point-up,
-.#{$fa-css-prefix}-hand-pointer,
-.#{$fa-css-prefix}-hand-receiving,
-.#{$fa-css-prefix}-hand-rock,
-.#{$fa-css-prefix}-hand-scissors,
-.#{$fa-css-prefix}-hand-sparkles,
-.#{$fa-css-prefix}-hand-spock,
-.#{$fa-css-prefix}-hands,
-.#{$fa-css-prefix}-hands-heart,
-.#{$fa-css-prefix}-hands-helping,
-.#{$fa-css-prefix}-hands-usd,
-.#{$fa-css-prefix}-hands-wash,
-.#{$fa-css-prefix}-handshake,
-.#{$fa-css-prefix}-handshake-alt,
-.#{$fa-css-prefix}-handshake-alt-slash,
-.#{$fa-css-prefix}-handshake-slash,
-.#{$fa-css-prefix}-thumbs-down,
-.#{$fa-css-prefix}-praying-hands,
-.#{$fa-css-prefix}-fist-raised,
-.#{$fa-css-prefix}-thumbs-up {
+.#{$fac-css-prefix}-hand-heart,
+.#{$fac-css-prefix}-hand-holding,
+.#{$fac-css-prefix}-hand-holding-box,
+.#{$fac-css-prefix}-hand-holding-heart,
+.#{$fac-css-prefix}-hand-holding-magic,
+.#{$fac-css-prefix}-hand-holding-medical,
+.#{$fac-css-prefix}-hand-holding-seedling,
+.#{$fac-css-prefix}-hand-holding-usd,
+.#{$fac-css-prefix}-hand-holding-water,
+.#{$fac-css-prefix}-hand-lizard,
+.#{$fac-css-prefix}-hand-middle-finger,
+.#{$fac-css-prefix}-hand-paper,
+.#{$fac-css-prefix}-hand-peace,
+.#{$fac-css-prefix}-hand-point-down,
+.#{$fac-css-prefix}-hand-point-left,
+.#{$fac-css-prefix}-hand-point-right,
+.#{$fac-css-prefix}-hand-point-up,
+.#{$fac-css-prefix}-hand-pointer,
+.#{$fac-css-prefix}-hand-receiving,
+.#{$fac-css-prefix}-hand-rock,
+.#{$fac-css-prefix}-hand-scissors,
+.#{$fac-css-prefix}-hand-sparkles,
+.#{$fac-css-prefix}-hand-spock,
+.#{$fac-css-prefix}-hands,
+.#{$fac-css-prefix}-hands-heart,
+.#{$fac-css-prefix}-hands-helping,
+.#{$fac-css-prefix}-hands-usd,
+.#{$fac-css-prefix}-hands-wash,
+.#{$fac-css-prefix}-handshake,
+.#{$fac-css-prefix}-handshake-alt,
+.#{$fac-css-prefix}-handshake-alt-slash,
+.#{$fac-css-prefix}-handshake-slash,
+.#{$fac-css-prefix}-thumbs-down,
+.#{$fac-css-prefix}-praying-hands,
+.#{$fac-css-prefix}-fist-raised,
+.#{$fac-css-prefix}-thumbs-up {
   @include fa-color($flesh);
 }
 
-.#{$fa-css-prefix}-hand-holding-box,
-.#{$fa-css-prefix}-hand-receiving {
+.#{$fac-css-prefix}-hand-holding-box,
+.#{$fac-css-prefix}-hand-receiving {
   --fa-primary-color: #{$gray};
 }
 
-.#{$fa-css-prefix}-hand-holding-heart,
-.#{$fa-css-prefix}-hand-holding-medical,
-.#{$fa-css-prefix}-hands-heart,
-.#{$fa-css-prefix}-handshake-alt-slash,
-.#{$fa-css-prefix}-handshake-slash {
+.#{$fac-css-prefix}-hand-holding-heart,
+.#{$fac-css-prefix}-hand-holding-medical,
+.#{$fac-css-prefix}-hands-heart,
+.#{$fac-css-prefix}-handshake-alt-slash,
+.#{$fac-css-prefix}-handshake-slash {
   --fa-primary-color: #{$red};
 }
 
-.#{$fa-css-prefix}-hand-holding-magic,
-.#{$fa-css-prefix}-hand-holding-water,
-.#{$fa-css-prefix}-hands-wash {
+.#{$fac-css-prefix}-hand-holding-magic,
+.#{$fac-css-prefix}-hand-holding-water,
+.#{$fac-css-prefix}-hands-wash {
   --fa-primary-color: #{$blue-light};
 }
 
-.#{$fa-css-prefix}-hand-holding-seedling,
-.#{$fa-css-prefix}-hand-holding-usd,
-.#{$fa-css-prefix}-hands-usd {
+.#{$fac-css-prefix}-hand-holding-seedling,
+.#{$fac-css-prefix}-hand-holding-usd,
+.#{$fac-css-prefix}-hands-usd {
   --fa-primary-color: #{$green};
 }
 
-.#{$fa-css-prefix}-thumbs-down,
-.#{$fa-css-prefix}-thumbs-up,
-.#{$fa-css-prefix}-hand-point-down,
-.#{$fa-css-prefix}-hand-point-left,
-.#{$fa-css-prefix}-hand-point-right,
-.#{$fa-css-prefix}-hand-point-up,
-.#{$fa-css-prefix}-handshake {
+.#{$fac-css-prefix}-thumbs-down,
+.#{$fac-css-prefix}-thumbs-up,
+.#{$fac-css-prefix}-hand-point-down,
+.#{$fac-css-prefix}-hand-point-left,
+.#{$fac-css-prefix}-hand-point-right,
+.#{$fac-css-prefix}-hand-point-up,
+.#{$fac-css-prefix}-handshake {
   --fa-primary-color: #{$blue};
 }
 
-.#{$fa-css-prefix}-hand-sparkles {
+.#{$fac-css-prefix}-hand-sparkles {
   --fa-primary-color: #{$yellow};
 }
 
-.#{$fa-css-prefix}-hand-pointer {
+.#{$fac-css-prefix}-hand-pointer {
   --fa-primary-color: #{$gray};
   --fa-secondary-color: #{$white};
 }

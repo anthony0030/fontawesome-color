@@ -1,10 +1,10 @@
-.#{$fa-css-prefix}-badge,
-.#{$fa-css-prefix}-badge-check,
-.#{$fa-css-prefix}-badge-dollar,
-.#{$fa-css-prefix}-badge-percent {
+.#{$fac-css-prefix}-badge,
+.#{$fac-css-prefix}-badge-check,
+.#{$fac-css-prefix}-badge-dollar,
+.#{$fac-css-prefix}-badge-percent {
   @include fa-color($black, $yellow);
 }
 
-.#{$fa-css-prefix}-badge-sheriff {
+.#{$fac-css-prefix}-badge-sheriff {
   @include fa-color($yellow, $orange);
 }

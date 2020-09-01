@@ -1,7 +1,7 @@
-.#{$fa-css-prefix}-ruler,
-.#{$fa-css-prefix}-ruler-combined,
-.#{$fa-css-prefix}-ruler-horizontal,
-.#{$fa-css-prefix}-ruler-triangle,
-.#{$fa-css-prefix}-ruler-vertical {
+.#{$fac-css-prefix}-ruler,
+.#{$fac-css-prefix}-ruler-combined,
+.#{$fac-css-prefix}-ruler-horizontal,
+.#{$fac-css-prefix}-ruler-triangle,
+.#{$fac-css-prefix}-ruler-vertical {
   @include fa-color($brown, $brown-light);
 }

@@ -1,8 +1,8 @@
-.#{$fa-css-prefix}-clipboard,
-.#{$fa-css-prefix}-clipboard-check,
-.#{$fa-css-prefix}-clipboard-list,
-.#{$fa-css-prefix}-clipboard-list-check,
-.#{$fa-css-prefix}-clipboard-prescription,
-.#{$fa-css-prefix}-clipboard-user {
+.#{$fac-css-prefix}-clipboard,
+.#{$fac-css-prefix}-clipboard-check,
+.#{$fac-css-prefix}-clipboard-list,
+.#{$fac-css-prefix}-clipboard-list-check,
+.#{$fac-css-prefix}-clipboard-prescription,
+.#{$fac-css-prefix}-clipboard-user {
   @include fa-color($gray-light, $brown);
 }

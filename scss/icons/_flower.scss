@@ -1,11 +1,11 @@
-.#{$fa-css-prefix}-flower {
+.#{$fac-css-prefix}-flower {
   @include fa-color($yellow, $pink);
 }
 
-.#{$fa-css-prefix}-flower-daffodil {
+.#{$fac-css-prefix}-flower-daffodil {
   @include fa-color($yellow, $green);
 }
 
-.#{$fa-css-prefix}-flower-tulip {
+.#{$fac-css-prefix}-flower-tulip {
   @include fa-color($red, $green);
 }

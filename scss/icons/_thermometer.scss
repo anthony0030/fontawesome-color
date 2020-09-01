@@ -1,20 +1,20 @@
-.#{$fa-css-prefix}-thermometer {
+.#{$fac-css-prefix}-thermometer {
   @include fa-color($black, $glass);
 }
 
-.#{$fa-css-prefix}-temperature-high,
-.#{$fa-css-prefix}-temperature-hot,
-.#{$fa-css-prefix}-temperature-up,
-.#{$fa-css-prefix}-thermometer-empty,
-.#{$fa-css-prefix}-thermometer-full,
-.#{$fa-css-prefix}-thermometer-half,
-.#{$fa-css-prefix}-thermometer-quarter,
-.#{$fa-css-prefix}-thermometer-three-quarters {
+.#{$fac-css-prefix}-temperature-high,
+.#{$fac-css-prefix}-temperature-hot,
+.#{$fac-css-prefix}-temperature-up,
+.#{$fac-css-prefix}-thermometer-empty,
+.#{$fac-css-prefix}-thermometer-full,
+.#{$fac-css-prefix}-thermometer-half,
+.#{$fac-css-prefix}-thermometer-quarter,
+.#{$fac-css-prefix}-thermometer-three-quarters {
   @include fa-color($red, $glass);
 }
 
-.#{$fa-css-prefix}-temperature-down,
-.#{$fa-css-prefix}-temperature-frigid,
-.#{$fa-css-prefix}-temperature-low {
+.#{$fac-css-prefix}-temperature-down,
+.#{$fac-css-prefix}-temperature-frigid,
+.#{$fac-css-prefix}-temperature-low {
   @include fa-color($blue, $glass);
 }

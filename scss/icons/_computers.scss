@@ -1,109 +1,109 @@
-.#{$fa-css-prefix}-brackets,
-.#{$fa-css-prefix}-brackets-curly {
+.#{$fac-css-prefix}-brackets,
+.#{$fac-css-prefix}-brackets-curly {
   @include fa-color($black);
 }
 
-.#{$fa-css-prefix}-computer-classic,
-.#{$fa-css-prefix}-desktop,
-.#{$fa-css-prefix}-desktop-alt {
+.#{$fac-css-prefix}-computer-classic,
+.#{$fac-css-prefix}-desktop,
+.#{$fac-css-prefix}-desktop-alt {
   @include fa-color($black, $gray-light);
 }
 
-.#{$fa-css-prefix}-computer-speaker {
+.#{$fac-css-prefix}-computer-speaker {
   @include fa-color($gray-light, $black);
 }
 
-.#{$fa-css-prefix}-download {
+.#{$fac-css-prefix}-download {
   @include fa-color($gray, $green);
 }
 
-.#{$fa-css-prefix}-ethernet .#{$fa-css-prefix}-hdd,
-.#{$fa-css-prefix}-headphones,
-.#{$fa-css-prefix}-headphones-alt,
-.#{$fa-css-prefix}-keyboard,
-.#{$fa-css-prefix}-save,
-.#{$fa-css-prefix}-usb-drive,
-.#{$fa-css-prefix}-disc-drive,
-.#{$fa-css-prefix}-watch-calculator,
-.#{$fa-css-prefix}-phone-laptop,
-.#{$fa-css-prefix}-server,
-.#{$fa-css-prefix}-stream {
+.#{$fac-css-prefix}-ethernet .#{$fac-css-prefix}-hdd,
+.#{$fac-css-prefix}-headphones,
+.#{$fac-css-prefix}-headphones-alt,
+.#{$fac-css-prefix}-keyboard,
+.#{$fac-css-prefix}-save,
+.#{$fac-css-prefix}-usb-drive,
+.#{$fac-css-prefix}-disc-drive,
+.#{$fac-css-prefix}-watch-calculator,
+.#{$fac-css-prefix}-phone-laptop,
+.#{$fac-css-prefix}-server,
+.#{$fac-css-prefix}-stream {
   @include fa-color($gray, $gray-light);
 }
 
-.#{$fa-css-prefix}-memory {
+.#{$fac-css-prefix}-memory {
   @include fa-color($gray-dark, $green);
 }
 
-.#{$fa-css-prefix}-tablet,
-.#{$fa-css-prefix}-tablet-alt,
-.#{$fa-css-prefix}-tablet-android,
-.#{$fa-css-prefix}-tablet-android-alt,
-.#{$fa-css-prefix}-tablet-rugged,
-.#{$fa-css-prefix}-mobile,
-.#{$fa-css-prefix}-mobile-alt,
-.#{$fa-css-prefix}-mobile-android,
-.#{$fa-css-prefix}-mobile-android-alt,
-.#{$fa-css-prefix}-mp3-player,
-.#{$fa-css-prefix}-laptop,
-.#{$fa-css-prefix}-laptop-code,
-.#{$fa-css-prefix}-laptop-house,
-.#{$fa-css-prefix}-tv,
-.#{$fa-css-prefix}-tv-alt,
-.#{$fa-css-prefix}-tv-music {
+.#{$fac-css-prefix}-tablet,
+.#{$fac-css-prefix}-tablet-alt,
+.#{$fac-css-prefix}-tablet-android,
+.#{$fac-css-prefix}-tablet-android-alt,
+.#{$fac-css-prefix}-tablet-rugged,
+.#{$fac-css-prefix}-mobile,
+.#{$fac-css-prefix}-mobile-alt,
+.#{$fac-css-prefix}-mobile-android,
+.#{$fac-css-prefix}-mobile-android-alt,
+.#{$fac-css-prefix}-mp3-player,
+.#{$fac-css-prefix}-laptop,
+.#{$fac-css-prefix}-laptop-code,
+.#{$fac-css-prefix}-laptop-house,
+.#{$fac-css-prefix}-tv,
+.#{$fac-css-prefix}-tv-alt,
+.#{$fac-css-prefix}-tv-music {
   @include fa-color($black, $gray);
 }
 
-.#{$fa-css-prefix}-mouse,
-.#{$fa-css-prefix}-mouse-alt,
-.#{$fa-css-prefix}-mouse-pointer,
-.#{$fa-css-prefix}-microchip {
+.#{$fac-css-prefix}-mouse,
+.#{$fac-css-prefix}-mouse-alt,
+.#{$fac-css-prefix}-mouse-pointer,
+.#{$fac-css-prefix}-microchip {
   @include fa-color($gray-dark, $gray-light);
 }
 
-.#{$fa-css-prefix}-print,
-.#{$fa-css-prefix}-print-search {
+.#{$fac-css-prefix}-print,
+.#{$fac-css-prefix}-print-search {
   @include fa-color($gray, $white);
 }
 
-.#{$fa-css-prefix}-upload {
+.#{$fac-css-prefix}-upload {
   @include fa-color($blue-light, $gray-light);
 }
 
-.#{$fa-css-prefix}-sd-card,
-.#{$fa-css-prefix}-sim-card,
-.#{$fa-css-prefix}-plug {
+.#{$fac-css-prefix}-sd-card,
+.#{$fac-css-prefix}-sim-card,
+.#{$fac-css-prefix}-plug {
   @include fa-color($black, $yellow-dark);
 }
 
-.#{$fa-css-prefix}-print-slash,
-.#{$fa-css-prefix}-webcam-slash {
+.#{$fac-css-prefix}-print-slash,
+.#{$fac-css-prefix}-webcam-slash {
   @include fa-color($red, $gray-light);
 }
 
-.#{$fa-css-prefix}-webcam,
-.#{$fa-css-prefix}-router {
+.#{$fac-css-prefix}-webcam,
+.#{$fac-css-prefix}-router {
   @include fa-color($black, $blue-light);
 }
 
-.#{$fa-css-prefix}-power-off {
+.#{$fac-css-prefix}-power-off {
   @include fa-color($red);
 }
 
-.#{$fa-css-prefix}-tv-retro {
+.#{$fac-css-prefix}-tv-retro {
   @include fa-color($brown-light, $gray-light);
 }
 
-.#{$fa-css-prefix}-speaker,
-.#{$fa-css-prefix}-speakers {
+.#{$fac-css-prefix}-speaker,
+.#{$fac-css-prefix}-speakers {
   @include fa-color($gray-dark, $yellow);
 }
 
-.#{$fa-css-prefix}-satellite,
-.#{$fa-css-prefix}-satellite-dish {
+.#{$fac-css-prefix}-satellite,
+.#{$fac-css-prefix}-satellite-dish {
   @include fa-color($gray, $blue-light);
 }
 
-.#{$fa-css-prefix}-database {
+.#{$fac-css-prefix}-database {
   @include fa-color($blue, $blue-light);
 }

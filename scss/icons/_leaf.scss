@@ -1,9 +1,9 @@
-.#{$fa-css-prefix}-leaf,
-.#{$fa-css-prefix}-leaf-maple,
-.#{$fa-css-prefix}-leaf-oak {
+.#{$fac-css-prefix}-leaf,
+.#{$fac-css-prefix}-leaf-maple,
+.#{$fac-css-prefix}-leaf-oak {
   @include fa-color($green-dark, $green);
 }
 
-.#{$fa-css-prefix}-leaf-heart {
+.#{$fac-css-prefix}-leaf-heart {
   @include fa-color($red, $green);
 }

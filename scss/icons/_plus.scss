@@ -1,10 +1,10 @@
-.#{$fa-css-prefix}-plus-circle,
-.#{$fa-css-prefix}-plus-hexagon,
-.#{$fa-css-prefix}-plus-octagon,
-.#{$fa-css-prefix}-plus-square {
+.#{$fac-css-prefix}-plus-circle,
+.#{$fac-css-prefix}-plus-hexagon,
+.#{$fac-css-prefix}-plus-octagon,
+.#{$fac-css-prefix}-plus-square {
   @include fa-color($white, $green);
 }
 
-.#{$fa-css-prefix}-plus {
+.#{$fac-css-prefix}-plus {
   @include fa-color($green);
 }

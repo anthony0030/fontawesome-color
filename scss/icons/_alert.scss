@@ -1,25 +1,25 @@
-.#{$fa-css-prefix}-bell {
+.#{$fac-css-prefix}-bell {
   @include fa-color($black, $yellow);
 }
 
-.#{$fa-css-prefix}-bell-exclamation {
+.#{$fac-css-prefix}-bell-exclamation {
   @include fa-color($red, $yellow);
 }
 
-.#{$fa-css-prefix}-bell-on {
+.#{$fac-css-prefix}-bell-on {
   @include fa-color($black, $yellow);
 }
 
-.#{$fa-css-prefix}-bell-plus {
+.#{$fac-css-prefix}-bell-plus {
   @include fa-color($green, $yellow);
 }
 
-.#{$fa-css-prefix}-bell-school,
-.#{$fa-css-prefix}-bell-school-slash,
-.#{$fa-css-prefix}-bell-slash {
+.#{$fac-css-prefix}-bell-school,
+.#{$fac-css-prefix}-bell-school-slash,
+.#{$fac-css-prefix}-bell-slash {
   @include fa-color($red, $gray-light);
 }
 
-.#{$fa-css-prefix}-bells {
+.#{$fac-css-prefix}-bells {
   @include fa-color($yellow, $yellow-dark);
 }

@@ -1,33 +1,33 @@
-.#{$fa-css-prefix}-calendar,
-.#{$fa-css-prefix}-calendar-alt,
-.#{$fa-css-prefix}-calendar-check,
-.#{$fa-css-prefix}-calendar-day,
-.#{$fa-css-prefix}-calendar-edit,
-.#{$fa-css-prefix}-calendar-exclamation,
-.#{$fa-css-prefix}-calendar-minus,
-.#{$fa-css-prefix}-calendar-plus,
-.#{$fa-css-prefix}-calendar-star,
-.#{$fa-css-prefix}-calendar-times,
-.#{$fa-css-prefix}-calendar-week {
+.#{$fac-css-prefix}-calendar,
+.#{$fac-css-prefix}-calendar-alt,
+.#{$fac-css-prefix}-calendar-check,
+.#{$fac-css-prefix}-calendar-day,
+.#{$fac-css-prefix}-calendar-edit,
+.#{$fac-css-prefix}-calendar-exclamation,
+.#{$fac-css-prefix}-calendar-minus,
+.#{$fac-css-prefix}-calendar-plus,
+.#{$fac-css-prefix}-calendar-star,
+.#{$fac-css-prefix}-calendar-times,
+.#{$fac-css-prefix}-calendar-week {
   @include fa-color($red, $white);
 }
 
-.#{$fa-css-prefix}-calendar-check {
+.#{$fac-css-prefix}-calendar-check {
   --fa-primary-color: #{$green};
 }
 
-.#{$fa-css-prefix}-calendar-edit {
+.#{$fac-css-prefix}-calendar-edit {
   --fa-primary-color: #{$blue-light};
 }
 
-.#{$fa-css-prefix}-calendar-exclamation {
+.#{$fac-css-prefix}-calendar-exclamation {
   --fa-primary-color: #{$orange};
 }
 
-.#{$fa-css-prefix}-calendar-plus {
+.#{$fac-css-prefix}-calendar-plus {
   --fa-primary-color: #{$green};
 }
 
-.#{$fa-css-prefix}-calendar-star {
+.#{$fac-css-prefix}-calendar-star {
   --fa-primary-color: #{$yellow};
 }

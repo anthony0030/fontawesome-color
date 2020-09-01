@@ -1,28 +1,28 @@
-.#{$fa-css-prefix}-book,
-.#{$fa-css-prefix}-book-alt,
-.#{$fa-css-prefix}-book-dead,
-.#{$fa-css-prefix}-book-heart,
-.#{$fa-css-prefix}-book-medical,
-.#{$fa-css-prefix}-book-open,
-.#{$fa-css-prefix}-book-spells,
-.#{$fa-css-prefix}-book-user,
-.#{$fa-css-prefix}-books,
-.#{$fa-css-prefix}-atlas {
+.#{$fac-css-prefix}-book,
+.#{$fac-css-prefix}-book-alt,
+.#{$fac-css-prefix}-book-dead,
+.#{$fac-css-prefix}-book-heart,
+.#{$fac-css-prefix}-book-medical,
+.#{$fac-css-prefix}-book-open,
+.#{$fac-css-prefix}-book-spells,
+.#{$fac-css-prefix}-book-user,
+.#{$fac-css-prefix}-books,
+.#{$fac-css-prefix}-atlas {
   @include fa-color($brown, $white);
 }
 
-.#{$fa-css-prefix}-bookmark {
+.#{$fac-css-prefix}-bookmark {
   @include fa-color($blue, $blue-light);
 }
 
-.#{$fa-css-prefix}-book-open {
+.#{$fac-css-prefix}-book-open {
   @include fa-color($white);
 }
 
-.#{$fa-css-prefix}-book-reader {
+.#{$fac-css-prefix}-book-reader {
   @include fa-color($brown, $black);
 }
 
-.#{$fa-css-prefix}-books-medical {
+.#{$fac-css-prefix}-books-medical {
   @include fa-color($red, $brown);
 }
