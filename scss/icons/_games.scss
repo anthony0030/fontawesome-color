@@ -12,13 +12,7 @@
   @include fa-color($red, $gray-light);
 }
 
-.#{$fa-css-prefix}-portal-enter {
-  @include fa-color($black, $blue-light);
-}
 
-.#{$fa-css-prefix}-portal-exit {
-  @include fa-color($black, $orange);
-}
 
 .#{$fa-css-prefix}-joystick {
 }

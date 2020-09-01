@@ -16,13 +16,6 @@
 .#{$fa-css-prefix}-air-freshener {
   @include fa-color($green, $green-light);
 }
-
-.#{$fa-css-prefix}-alien {
-  @include fa-color($black, $green-light);
-}
-.#{$fa-css-prefix}-alien-monster {
-  @include fa-color($black, $green);
-}
 .#{$fa-css-prefix}-analytics {
   @include fa-color($blue, $orange);
 }
@@ -31,9 +24,6 @@
 }
 .#{$fa-css-prefix}-angel {
   @include fa-color($white, $yellow);
-}
-.#{$fa-css-prefix}-ankh {
-  @include fa-color($black);
 }
 .#{$fa-css-prefix}-archive {
   @include fa-color($brown, $brown-light);
@@ -79,9 +69,7 @@
   @include fa-color($blue, $blue-light);
 }
 
-.#{$fa-css-prefix}-bahai {
-  @include fa-color($black, $white);
-}
+
 
 .#{$fa-css-prefix}-balance-scale,
 .#{$fa-css-prefix}-balance-scale-left,
@@ -121,9 +109,6 @@
   @include fa-color($blue, $blue-light);
 }
 
-.#{$fa-css-prefix}-bible {
-  @include fa-color($black, $white);
-}
 
 .#{$fa-css-prefix}-bicycle {
   @include fa-color($red, $black);
@@ -152,9 +137,7 @@
   @include fa-color($white);
 }
 
-.#{$fa-css-prefix}-bold {
-  @include fa-color($black);
-}
+
 
 .#{$fa-css-prefix}-bolt {
   @include fa-color($yellow);
@@ -174,11 +157,6 @@
 
 .#{$fa-css-prefix}-briefcase {
   @include fa-color($brown, $brown-light);
-}
-
-.#{$fa-css-prefix}-bring-forward,
-.#{$fa-css-prefix}-bring-front {
-  @include fa-color($blue, $blue-light);
 }
 
 .#{$fa-css-prefix}-broadcast-tower {
@@ -275,9 +253,6 @@
   @include fa-color($brown, $red-dark);
 }
 
-.#{$fa-css-prefix}-church {
-  @include fa-color($black);
-}
 
 .#{$fa-css-prefix}-circle {
   @include fa-color($blue, $blue-light);
@@ -299,9 +274,7 @@
   @include fa-color($black, $gray-light);
 }
 
-.#{$fa-css-prefix}-clone {
-  @include fa-color($blue, $blue-light);
-}
+
 
 .#{$fa-css-prefix}-club {
   @include fa-color($black);
@@ -327,9 +300,7 @@
   @include fa-color($gray-light);
 }
 
-.#{$fa-css-prefix}-columns {
-  @include fa-color($black, $gray);
-}
+
 
 .#{$fa-css-prefix}-comet {
   @include fa-color($yellow, $orange);
@@ -356,10 +327,6 @@
   @include fa-color($gray, $brown-light);
 }
 
-.#{$fa-css-prefix}-copy {
-  @include fa-color($gray-light, $white);
-}
-
 .#{$fa-css-prefix}-copyright {
   @include fa-color($white, $black);
 }
@@ -382,9 +349,7 @@
   @include fa-color($black);
 }
 
-.#{$fa-css-prefix}-cross {
-  @include fa-color($yellow);
-}
+
 
 .#{$fa-css-prefix}-crosshairs {
   @include fa-color($red-dark, $red);
@@ -397,10 +362,6 @@
 .#{$fa-css-prefix}-cube,
 .#{$fa-css-prefix}-cubes {
   @include fa-color($blue, $blue-light);
-}
-
-.#{$fa-css-prefix}-cut {
-  @include fa-color($gray);
 }
 
 .#{$fa-css-prefix}-dagger {
@@ -417,10 +378,6 @@
 
 .#{$fa-css-prefix}-dewpoint {
   @include fa-color($blue, $gray-light);
-}
-
-.#{$fa-css-prefix}-dharmachakra {
-  @include fa-color($brown, $brown-light);
 }
 
 .#{$fa-css-prefix}-diamond {
@@ -523,9 +480,6 @@
   @include fa-color($black);
 }
 
-.#{$fa-css-prefix}-eraser {
-  @include fa-color($pink, $pink-dark);
-}
 .#{$fa-css-prefix}-external-link {
 }
 .#{$fa-css-prefix}-external-link-alt {
@@ -582,13 +536,7 @@
 .#{$fa-css-prefix}-flame {
 }
 
-.#{$fa-css-prefix}-flux-capacitor {
-}
 .#{$fa-css-prefix}-fog {
-}
-.#{$fa-css-prefix}-font {
-}
-.#{$fa-css-prefix}-font-case {
 }
 .#{$fa-css-prefix}-forklift {
 }
@@ -634,8 +582,7 @@
   @include fa-color($black, $glass);
 }
 
-.#{$fa-css-prefix}-gopuram {
-}
+
 
 .#{$fa-css-prefix}-graduation-cap {
   @include fa-color($black, $yellow-dark);
@@ -649,16 +596,9 @@
   @include fa-color($brown, $gray-dark);
 }
 
-.#{$fa-css-prefix}-hamsa {
-}
-.#{$fa-css-prefix}-hanukiah {
-}
 
 .#{$fa-css-prefix}-hashtag {
   @include fa-color($gray-dark);
-}
-
-.#{$fa-css-prefix}-heading {
 }
 
 .#{$fa-css-prefix}-headset {
@@ -671,16 +611,10 @@
 .#{$fa-css-prefix}-hexagon {
 }
 
-.#{$fa-css-prefix}-highlighter {
-  @include fa-color($gray-dark, $yellow);
-}
-
 .#{$fa-css-prefix}-history {
 }
 .#{$fa-css-prefix}-holly-berry {
   @include fa-color($red, $green);
-}
-.#{$fa-css-prefix}-horizontal-rule {
 }
 .#{$fa-css-prefix}-hot-tub {
 }
@@ -690,16 +624,8 @@
 }
 .#{$fa-css-prefix}-hurricane {
 }
-.#{$fa-css-prefix}-i-cursor {
-}
 .#{$fa-css-prefix}-icicles {
 }
-
-.#{$fa-css-prefix}-icons,
-.#{$fa-css-prefix}-icons-alt {
-  @include fa-color($gray, $gray-light);
-}
-
 .#{$fa-css-prefix}-id-badge {
 }
 .#{$fa-css-prefix}-id-card {
@@ -719,8 +645,6 @@
 .#{$fa-css-prefix}-inbox-in {
 }
 .#{$fa-css-prefix}-inbox-out {
-}
-.#{$fa-css-prefix}-indent {
 }
 .#{$fa-css-prefix}-industry {
 }
@@ -742,34 +666,20 @@
 }
 .#{$fa-css-prefix}-island-tropical {
 }
-.#{$fa-css-prefix}-italic {
-}
 
 .#{$fa-css-prefix}-jack-o-lantern {
   @include fa-color($black, $orange);
-}
-
-.#{$fa-css-prefix}-jedi {
-}
-.#{$fa-css-prefix}-journal-whills {
 }
 
 .#{$fa-css-prefix}-jug {
   @include fa-color($brown-dark, $gray-light);
 }
 
-.#{$fa-css-prefix}-kaaba {
-}
-
-.#{$fa-css-prefix}-kerning {
-}
 .#{$fa-css-prefix}-key {
 }
 .#{$fa-css-prefix}-key-skeleton {
 }
 .#{$fa-css-prefix}-keynote {
-}
-.#{$fa-css-prefix}-khanda {
 }
 
 .#{$fa-css-prefix}-kite {
@@ -806,8 +716,6 @@
   @include fa-color($white, $orange);
 }
 
-.#{$fa-css-prefix}-line-columns {
-}
 .#{$fa-css-prefix}-line-height {
 }
 .#{$fa-css-prefix}-link {
@@ -829,9 +737,6 @@
 }
 .#{$fa-css-prefix}-male {
 }
-
-.#{$fa-css-prefix}-marker {
-}
 .#{$fa-css-prefix}-mask {
 }
 .#{$fa-css-prefix}-medal {
@@ -839,8 +744,6 @@
 .#{$fa-css-prefix}-medkit {
 }
 .#{$fa-css-prefix}-megaphone {
-}
-.#{$fa-css-prefix}-menorah {
 }
 .#{$fa-css-prefix}-meteor {
 }
@@ -855,8 +758,6 @@
 .#{$fa-css-prefix}-mitten {
 }
 .#{$fa-css-prefix}-monument {
-}
-.#{$fa-css-prefix}-mosque {
 }
 .#{$fa-css-prefix}-motorcycle {
 }
@@ -885,21 +786,13 @@
 }
 .#{$fa-css-prefix}-oil-temp {
 }
-.#{$fa-css-prefix}-om {
-}
 .#{$fa-css-prefix}-omega {
 }
 .#{$fa-css-prefix}-ornament {
 }
-.#{$fa-css-prefix}-outdent {
-}
 .#{$fa-css-prefix}-outlet {
 }
 .#{$fa-css-prefix}-oven {
-}
-.#{$fa-css-prefix}-overline {
-}
-.#{$fa-css-prefix}-page-break {
 }
 .#{$fa-css-prefix}-paint-brush {
 }
@@ -913,8 +806,6 @@
 }
 .#{$fa-css-prefix}-pallet-alt {
 }
-.#{$fa-css-prefix}-paperclip {
-}
 
 .#{$fa-css-prefix}-parachute-box {
   @include fa-color($red, $brown-light);
@@ -922,29 +813,11 @@
 
 .#{$fa-css-prefix}-passport {
 }
-.#{$fa-css-prefix}-pastafarianism {
-}
-.#{$fa-css-prefix}-paste {
-}
 .#{$fa-css-prefix}-pause {
 }
 .#{$fa-css-prefix}-pause-circle {
 }
 .#{$fa-css-prefix}-peace {
-}
-.#{$fa-css-prefix}-pen {
-}
-.#{$fa-css-prefix}-pen-alt {
-}
-.#{$fa-css-prefix}-pen-fancy {
-}
-.#{$fa-css-prefix}-pen-nib {
-}
-.#{$fa-css-prefix}-pen-square {
-}
-.#{$fa-css-prefix}-pencil {
-}
-.#{$fa-css-prefix}-pencil-alt {
 }
 .#{$fa-css-prefix}-pencil-paintbrush {
 }
@@ -967,8 +840,6 @@
   @include fa-color($yellow, $pink);
 }
 
-.#{$fa-css-prefix}-place-of-worship {
-}
 .#{$fa-css-prefix}-play {
 }
 .#{$fa-css-prefix}-play-circle {
@@ -978,8 +849,6 @@
 .#{$fa-css-prefix}-podium {
 }
 .#{$fa-css-prefix}-podium-star {
-}
-.#{$fa-css-prefix}-police-box {
 }
 .#{$fa-css-prefix}-poll {
 }
@@ -997,8 +866,6 @@
 }
 .#{$fa-css-prefix}-portrait {
 }
-.#{$fa-css-prefix}-pray {
-}
 .#{$fa-css-prefix}-presentation {
 }
 .#{$fa-css-prefix}-project-diagram {
@@ -1012,9 +879,6 @@
 .#{$fa-css-prefix}-question {
 }
 .#{$fa-css-prefix}-question-square {
-}
-
-.#{$fa-css-prefix}-quran {
 }
 
 .#{$fa-css-prefix}-radar {
@@ -1041,15 +905,9 @@
 }
 .#{$fa-css-prefix}-recycle {
 }
-.#{$fa-css-prefix}-redo {
-}
-.#{$fa-css-prefix}-redo-alt {
-}
 .#{$fa-css-prefix}-refrigerator {
 }
 .#{$fa-css-prefix}-registered {
-}
-.#{$fa-css-prefix}-remove-format {
 }
 .#{$fa-css-prefix}-repeat {
 }
@@ -1058,10 +916,6 @@
 .#{$fa-css-prefix}-repeat-1-alt {
 }
 .#{$fa-css-prefix}-repeat-alt {
-}
-.#{$fa-css-prefix}-reply {
-}
-.#{$fa-css-prefix}-reply-all {
 }
 .#{$fa-css-prefix}-republican {
 }
@@ -1121,9 +975,6 @@
 .#{$fa-css-prefix}-school {
 }
 
-.#{$fa-css-prefix}-screwdriver {
-  @include fa-color($red, $gray-light);
-}
 
 .#{$fa-css-prefix}-scroll {
 }
@@ -1133,16 +984,9 @@
 }
 .#{$fa-css-prefix}-scythe {
 }
-.#{$fa-css-prefix}-send-back {
-}
-.#{$fa-css-prefix}-send-backward {
-}
 .#{$fa-css-prefix}-shapes {
 }
-.#{$fa-css-prefix}-share {
-}
-.#{$fa-css-prefix}-share-all {
-}
+
 .#{$fa-css-prefix}-share-alt {
 }
 .#{$fa-css-prefix}-share-alt-square {
@@ -1260,8 +1104,6 @@
 }
 .#{$fa-css-prefix}-sparkles {
 }
-.#{$fa-css-prefix}-spell-check {
-}
 .#{$fa-css-prefix}-spider-web {
 }
 .#{$fa-css-prefix}-spinner {
@@ -1288,8 +1130,6 @@
 }
 .#{$fa-css-prefix}-star {
 }
-.#{$fa-css-prefix}-star-and-crescent {
-}
 .#{$fa-css-prefix}-star-christmas {
 }
 
@@ -1300,8 +1140,6 @@
 .#{$fa-css-prefix}-star-half {
 }
 .#{$fa-css-prefix}-star-half-alt {
-}
-.#{$fa-css-prefix}-star-of-david {
 }
 .#{$fa-css-prefix}-star-shooting {
 }
@@ -1345,10 +1183,6 @@
 }
 .#{$fa-css-prefix}-street-view {
 }
-.#{$fa-css-prefix}-strikethrough {
-}
-.#{$fa-css-prefix}-subscript {
-}
 .#{$fa-css-prefix}-subway {
 }
 .#{$fa-css-prefix}-suitcase {
@@ -1371,29 +1205,9 @@
   @include fa-color($gray-dark, $orange);
 }
 
-.#{$fa-css-prefix}-superscript {
-}
 .#{$fa-css-prefix}-swatchbook {
 }
 .#{$fa-css-prefix}-swimming-pool {
-}
-.#{$fa-css-prefix}-sword {
-}
-.#{$fa-css-prefix}-sword-laser {
-}
-.#{$fa-css-prefix}-sword-laser-alt {
-}
-.#{$fa-css-prefix}-swords {
-}
-.#{$fa-css-prefix}-swords-laser {
-}
-.#{$fa-css-prefix}-synagogue {
-}
-.#{$fa-css-prefix}-sync {
-}
-.#{$fa-css-prefix}-sync-alt {
-}
-.#{$fa-css-prefix}-table {
 }
 
 .#{$fa-css-prefix}-tag,
@@ -1405,33 +1219,13 @@
   @include fa-color($gray-dark);
 }
 
-.#{$fa-css-prefix}-tanakh {
-}
 .#{$fa-css-prefix}-tape {
-}
-.#{$fa-css-prefix}-tasks {
-}
-.#{$fa-css-prefix}-tasks-alt {
 }
 .#{$fa-css-prefix}-taxi {
 }
 .#{$fa-css-prefix}-telescope {
 }
 .#{$fa-css-prefix}-terminal {
-}
-.#{$fa-css-prefix}-text {
-}
-.#{$fa-css-prefix}-text-height {
-}
-.#{$fa-css-prefix}-text-size {
-}
-.#{$fa-css-prefix}-text-width {
-}
-.#{$fa-css-prefix}-th {
-}
-.#{$fa-css-prefix}-th-large {
-}
-.#{$fa-css-prefix}-th-list {
 }
 .#{$fa-css-prefix}-theater-masks {
 }
@@ -1497,16 +1291,6 @@
   @include fa-color($gray-light, $red);
 }
 
-.#{$fa-css-prefix}-tools {
-  @include fa-color($gray-dark, $gray-light);
-}
-
-.#{$fa-css-prefix}-torah {
-  @include fa-color($blue, $gray-light);
-}
-
-.#{$fa-css-prefix}-torii-gate {
-}
 .#{$fa-css-prefix}-tornado {
 }
 
@@ -1524,16 +1308,6 @@
 .#{$fa-css-prefix}-train {
 }
 .#{$fa-css-prefix}-tram {
-}
-.#{$fa-css-prefix}-transporter {
-}
-.#{$fa-css-prefix}-transporter-1 {
-}
-.#{$fa-css-prefix}-transporter-2 {
-}
-.#{$fa-css-prefix}-transporter-3 {
-}
-.#{$fa-css-prefix}-transporter-empty {
 }
 .#{$fa-css-prefix}-treasure-chest {
 }
@@ -1568,9 +1342,6 @@
   @include fa-color($red, $white);
 }
 
-.#{$fa-css-prefix}-typewriter {
-  @include fa-color($black, $white);
-}
 .#{$fa-css-prefix}-ufo {
   @include fa-color($gray, $blue-light);
 }
@@ -1583,17 +1354,9 @@
 .#{$fa-css-prefix}-umbrella-beach {
   @include fa-color($blue, $gray);
 }
-.#{$fa-css-prefix}-underline {
-}
-.#{$fa-css-prefix}-undo {
-}
-.#{$fa-css-prefix}-undo-alt {
-}
 .#{$fa-css-prefix}-union {
 }
 .#{$fa-css-prefix}-university {
-}
-.#{$fa-css-prefix}-unlink {
 }
 .#{$fa-css-prefix}-vacuum {
 }
@@ -1606,8 +1369,6 @@
 .#{$fa-css-prefix}-vhs {
 }
 
-.#{$fa-css-prefix}-vihara {
-}
 
 .#{$fa-css-prefix}-voicemail {
 }
@@ -1666,10 +1427,4 @@
 }
 
 .#{$fa-css-prefix}-wreath {
-}
-.#{$fa-css-prefix}-wrench {
-  @include fa-color($gray);
-}
-.#{$fa-css-prefix}-yin-yang {
-  @include fa-color($black, $white);
 }

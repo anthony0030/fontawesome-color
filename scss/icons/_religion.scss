@@ -1,0 +1,86 @@
+.#{$fa-css-prefix}-ankh {
+  @include fa-color($black);
+}
+
+.#{$fa-css-prefix}-bahai {
+  @include fa-color($black, $white);
+}
+
+.#{$fa-css-prefix}-bible {
+  @include fa-color($black, $white);
+}
+
+
+.#{$fa-css-prefix}-church {
+  @include fa-color($black);
+}
+
+.#{$fa-css-prefix}-cross {
+  @include fa-color($yellow);
+}
+
+.#{$fa-css-prefix}-dharmachakra {
+  @include fa-color($brown, $brown-light);
+}
+
+.#{$fa-css-prefix}-gopuram {
+}
+
+.#{$fa-css-prefix}-hamsa {
+}
+
+.#{$fa-css-prefix}-hanukiah {
+}
+
+.#{$fa-css-prefix}-kaaba {
+}
+
+.#{$fa-css-prefix}-khanda {
+}
+
+.#{$fa-css-prefix}-menorah {
+}
+
+.#{$fa-css-prefix}-mosque {
+}
+
+.#{$fa-css-prefix}-om {
+}
+
+.#{$fa-css-prefix}-pastafarianism {
+}
+
+.#{$fa-css-prefix}-place-of-worship {
+}
+
+.#{$fa-css-prefix}-pray {
+}
+
+.#{$fa-css-prefix}-quran {
+}
+
+.#{$fa-css-prefix}-star-and-crescent {
+}
+
+.#{$fa-css-prefix}-star-of-david {
+}
+
+.#{$fa-css-prefix}-synagogue {
+}
+
+.#{$fa-css-prefix}-tanakh {
+}
+
+.#{$fa-css-prefix}-torah {
+  @include fa-color($blue, $gray-light);
+}
+
+.#{$fa-css-prefix}-torii-gate {
+}
+
+.#{$fa-css-prefix}-vihara {
+}
+
+.#{$fa-css-prefix}-yin-yang {
+  @include fa-color($black, $white);
+}
