@@ -1,6 +1,6 @@
 {
   "name": "fontawesome-color",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Custom Color classes for font awesome duotone",
   "main": "index.js",
   "scripts": {
