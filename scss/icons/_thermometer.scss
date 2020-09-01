@@ -1,5 +1,5 @@
 .#{$fa-css-prefix}-thermometer {
-  @include fa-color($black, $blue-light);
+  @include fa-color($black, $glass);
 }
 
 .#{$fa-css-prefix}-temperature-high,
@@ -10,11 +10,11 @@
 .#{$fa-css-prefix}-thermometer-half,
 .#{$fa-css-prefix}-thermometer-quarter,
 .#{$fa-css-prefix}-thermometer-three-quarters {
-  @include fa-color($red, $blue-light);
+  @include fa-color($red, $glass);
 }
 
 .#{$fa-css-prefix}-temperature-down,
 .#{$fa-css-prefix}-temperature-frigid,
 .#{$fa-css-prefix}-temperature-low {
-  @include fa-color($blue, $blue-light);
+  @include fa-color($blue, $glass);
 }
