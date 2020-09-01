@@ -8,7 +8,6 @@
   @include fa-color($red, $gray-light);
 }
 
-
 .#{$fa-css-prefix}-banjo {
   @include fa-color($brown, $brown-light);
 }
@@ -30,10 +29,11 @@
 .#{$fa-css-prefix}-radio-alt {
 }
 
-
 .#{$fa-css-prefix}-piano {
 }
 
+.#{$fa-css-prefix}-piano-keyboard {
+}
 
 .#{$fa-css-prefix}-kazoo {
 }
@@ -51,4 +51,57 @@
 
 .#{$fa-css-prefix}-cowbell {
   @include fa-color($black);
+}
+
+.#{$fa-css-prefix}-cowbell-more {
+  @include fa-color($black, $green);
+}
+
+.#{$fa-css-prefix}-flute {
+}
+
+.#{$fa-css-prefix}-album {
+  @include fa-color($black, $gray);
+}
+.#{$fa-css-prefix}-album-collection {
+  @include fa-color($black, $gray);
+}
+
+.#{$fa-css-prefix}-amp-guitar {
+  @include fa-color($black, $gray);
+}
+
+.#{$fa-css-prefix}-guitar {
+  @include fa-color($black, $brown);
+}
+
+.#{$fa-css-prefix}-guitar-electric {
+  @include fa-color($black, $red);
+}
+
+.#{$fa-css-prefix}-guitars {
+  @include fa-color($red, $brown);
+}
+
+.#{$fa-css-prefix}-cassette-tape {
+  @include fa-color($black, $yellow);
+}
+
+.#{$fa-css-prefix}-clarinet {
+  @include fa-color($black, $yellow);
+}
+
+.#{$fa-css-prefix}-mandolin {
+}
+
+.#{$fa-css-prefix}-triangle-music {
+  @include fa-color($gray-light);
+}
+
+.#{$fa-css-prefix}-trumpet {
+}
+
+.#{$fa-css-prefix}-turntable {
+}
+.#{$fa-css-prefix}-violin {
 }

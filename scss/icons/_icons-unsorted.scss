@@ -1,5 +1,3 @@
-
-
 .#{$fa-css-prefix}-ad {
   @include fa-color($black, $yellow);
 }
@@ -18,12 +16,7 @@
 .#{$fa-css-prefix}-air-freshener {
   @include fa-color($green, $green-light);
 }
-.#{$fa-css-prefix}-album {
-  @include fa-color($black, $gray);
-}
-.#{$fa-css-prefix}-album-collection {
-  @include fa-color($black, $gray);
-}
+
 .#{$fa-css-prefix}-alien {
   @include fa-color($black, $green-light);
 }
@@ -53,7 +46,6 @@
   @include fa-color($black);
 }
 
-
 .#{$fa-css-prefix}-atom,
 .#{$fa-css-prefix}-atom-alt {
   @include fa-color($blue, $blue-light);
@@ -62,8 +54,6 @@
 .#{$fa-css-prefix}-award {
   @include fa-color($red, $red-light);
 }
-
-
 
 .#{$fa-css-prefix}-axe-battle {
   @include fa-color($brown, $gray-light);
@@ -76,8 +66,6 @@
 .#{$fa-css-prefix}-baby-carriage {
   @include fa-color($gray-light, $black);
 }
-
-
 
 .#{$fa-css-prefix}-backspace {
   @include fa-color($blue, $blue-light);
@@ -110,7 +98,6 @@
   @include fa-color($red);
 }
 
-
 .#{$fa-css-prefix}-bars {
   @include fa-color($black);
 }
@@ -125,7 +112,6 @@
 .#{$fa-css-prefix}-bed-empty {
   @include fa-color($brown-light, $gray-light);
 }
-
 
 .#{$fa-css-prefix}-betamax {
   @include fa-color($black, $gray-dark);
@@ -142,7 +128,6 @@
 .#{$fa-css-prefix}-bicycle {
   @include fa-color($red, $black);
 }
-
 
 .#{$fa-css-prefix}-birthday-cake {
   @include fa-color($pink, $yellow);
@@ -257,10 +242,6 @@
   @include fa-color($black, $gray-light);
 }
 
-.#{$fa-css-prefix}-cassette-tape {
-  @include fa-color($black, $yellow);
-}
-
 .#{$fa-css-prefix}-cauldron {
   @include fa-color($black, $green-light);
 }
@@ -308,10 +289,6 @@
 
 .#{$fa-css-prefix}-city {
   @include fa-color($gray-dark, $yellow);
-}
-
-.#{$fa-css-prefix}-clarinet {
-  @include fa-color($black, $yellow);
 }
 
 .#{$fa-css-prefix}-claw-marks {
@@ -389,10 +366,6 @@
 
 .#{$fa-css-prefix}-couch {
   @include fa-color($red, $red-dark);
-}
-
-.#{$fa-css-prefix}-cowbell-more {
-  @include fa-color($black, $green);
 }
 
 .#{$fa-css-prefix}-credit-card {
@@ -609,8 +582,6 @@
 .#{$fa-css-prefix}-flame {
 }
 
-.#{$fa-css-prefix}-flute {
-}
 .#{$fa-css-prefix}-flux-capacitor {
 }
 .#{$fa-css-prefix}-fog {
@@ -670,9 +641,6 @@
   @include fa-color($black, $yellow-dark);
 }
 
-
-
-
 .#{$fa-css-prefix}-hammer {
   @include fa-color($gray-dark, $brown);
 }
@@ -695,7 +663,6 @@
 
 .#{$fa-css-prefix}-headset {
 }
-
 
 .#{$fa-css-prefix}-heat {
 }
@@ -862,8 +829,7 @@
 }
 .#{$fa-css-prefix}-male {
 }
-.#{$fa-css-prefix}-mandolin {
-}
+
 .#{$fa-css-prefix}-marker {
 }
 .#{$fa-css-prefix}-mask {
@@ -886,10 +852,14 @@
   @include fa-color($gray-light, $green);
 }
 
-.#{$fa-css-prefix}-mitten {}
-.#{$fa-css-prefix}-monument {}
-.#{$fa-css-prefix}-mosque {}
-.#{$fa-css-prefix}-motorcycle {}
+.#{$fa-css-prefix}-mitten {
+}
+.#{$fa-css-prefix}-monument {
+}
+.#{$fa-css-prefix}-mosque {
+}
+.#{$fa-css-prefix}-motorcycle {
+}
 
 .#{$fa-css-prefix}-mountain {
   @include fa-color($brown, $white);
@@ -899,35 +869,56 @@
   @include fa-color($brown, $brown-light);
 }
 
-.#{$fa-css-prefix}-network-wired {}
-.#{$fa-css-prefix}-newspaper {}
-.#{$fa-css-prefix}-not-equal {}
-.#{$fa-css-prefix}-object-group {}
-.#{$fa-css-prefix}-object-ungroup {}
-.#{$fa-css-prefix}-octagon {}
-.#{$fa-css-prefix}-oil-can {}
-.#{$fa-css-prefix}-oil-temp {}
-.#{$fa-css-prefix}-om {}
-.#{$fa-css-prefix}-omega {}
-.#{$fa-css-prefix}-ornament {}
-.#{$fa-css-prefix}-outdent {}
-.#{$fa-css-prefix}-outlet {}
-.#{$fa-css-prefix}-oven {}
-.#{$fa-css-prefix}-overline {}
-.#{$fa-css-prefix}-page-break {}
-.#{$fa-css-prefix}-paint-brush {}
-.#{$fa-css-prefix}-paint-brush-alt {}
-.#{$fa-css-prefix}-paint-roller {}
-.#{$fa-css-prefix}-palette {}
-.#{$fa-css-prefix}-pallet {}
-.#{$fa-css-prefix}-pallet-alt {}
-.#{$fa-css-prefix}-paperclip {}
-
-.#{$fa-css-prefix}-parachute-box {
-@include fa-color($red, $brown-light);
+.#{$fa-css-prefix}-network-wired {
+}
+.#{$fa-css-prefix}-newspaper {
+}
+.#{$fa-css-prefix}-not-equal {
+}
+.#{$fa-css-prefix}-object-group {
+}
+.#{$fa-css-prefix}-object-ungroup {
+}
+.#{$fa-css-prefix}-octagon {
+}
+.#{$fa-css-prefix}-oil-can {
+}
+.#{$fa-css-prefix}-oil-temp {
+}
+.#{$fa-css-prefix}-om {
+}
+.#{$fa-css-prefix}-omega {
+}
+.#{$fa-css-prefix}-ornament {
+}
+.#{$fa-css-prefix}-outdent {
+}
+.#{$fa-css-prefix}-outlet {
+}
+.#{$fa-css-prefix}-oven {
+}
+.#{$fa-css-prefix}-overline {
+}
+.#{$fa-css-prefix}-page-break {
+}
+.#{$fa-css-prefix}-paint-brush {
+}
+.#{$fa-css-prefix}-paint-brush-alt {
+}
+.#{$fa-css-prefix}-paint-roller {
+}
+.#{$fa-css-prefix}-palette {
+}
+.#{$fa-css-prefix}-pallet {
+}
+.#{$fa-css-prefix}-pallet-alt {
+}
+.#{$fa-css-prefix}-paperclip {
 }
 
-
+.#{$fa-css-prefix}-parachute-box {
+  @include fa-color($red, $brown-light);
+}
 
 .#{$fa-css-prefix}-passport {
 }
@@ -970,9 +961,6 @@
 .#{$fa-css-prefix}-photo-video {
 }
 .#{$fa-css-prefix}-pi {
-}
-
-.#{$fa-css-prefix}-piano-keyboard {
 }
 
 .#{$fa-css-prefix}-piggy-bank {
@@ -1125,7 +1113,6 @@
 .#{$fa-css-prefix}-sack-dollar {
   @include fa-color($green, $brown-light);
 }
-
 
 .#{$fa-css-prefix}-scarecrow {
 }
@@ -1553,9 +1540,7 @@
 .#{$fa-css-prefix}-triangle {
   @include fa-color($yellow, $red);
 }
-.#{$fa-css-prefix}-triangle-music {
-  @include fa-color($gray-light);
-}
+
 .#{$fa-css-prefix}-trophy {
 }
 .#{$fa-css-prefix}-trophy-alt {
@@ -1578,13 +1563,11 @@
 }
 .#{$fa-css-prefix}-truck-ramp {
 }
-.#{$fa-css-prefix}-trumpet {
-}
+
 .#{$fa-css-prefix}-tshirt {
   @include fa-color($red, $white);
 }
-.#{$fa-css-prefix}-turntable {
-}
+
 .#{$fa-css-prefix}-typewriter {
   @include fa-color($black, $white);
 }
@@ -1625,8 +1608,7 @@
 
 .#{$fa-css-prefix}-vihara {
 }
-.#{$fa-css-prefix}-violin {
-}
+
 .#{$fa-css-prefix}-voicemail {
 }
 .#{$fa-css-prefix}-volcano {
@@ -1664,16 +1646,7 @@
 }
 .#{$fa-css-prefix}-water-rise {
 }
-.#{$fa-css-prefix}-wave-sine {
-}
-.#{$fa-css-prefix}-wave-square {
-}
-.#{$fa-css-prefix}-wave-triangle {
-}
-.#{$fa-css-prefix}-waveform {
-}
-.#{$fa-css-prefix}-waveform-path {
-}
+
 .#{$fa-css-prefix}-weight-hanging {
 }
 

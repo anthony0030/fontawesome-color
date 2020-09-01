@@ -15,12 +15,10 @@
   @include fa-color($green, $white);
 }
 
-
 .#{$fa-css-prefix}-usd-circle,
 .#{$fa-css-prefix}-usd-square {
   @include fa-color($green-dark, $green);
 }
-
 
 .#{$fa-css-prefix}-exchange {
 }
