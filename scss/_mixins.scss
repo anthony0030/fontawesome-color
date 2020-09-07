@@ -1,11 +1,18 @@
 @mixin fa-color(
   $fa-primary-color,
   $secondary-color: $fa-primary-color,
-  $primary-opacity: 1,
-  $secondary-opacity: 1
+  $primary-opacity: false,
+  $secondary-opacity: false
 ) {
-  --fa-primary-opacity: #{$primary-opacity};
-  --fa-secondary-opacity: #{$secondary-opacity};
+
+  @if $primary-opacity {
+    --fa-primary-opacity: #{$primary-opacity};
+  }
+
+  @if $secondary-opacity {
+    --fa-secondary-opacity: #{$secondary-opacity};
+  }
+
   --fa-primary-color: #{$fa-primary-color};
   --fa-secondary-color: #{$secondary-color};
 }

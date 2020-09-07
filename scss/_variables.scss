@@ -1,6 +1,7 @@
 // Settings
 $fa-css-prefix:                fa        !default;
-$fac-css-prefix:               "fac.#{$fa-css-prefix}"       !default;
+$fac-css-prefix-class:         fac       !default;
+$fac-css-prefix:               "#{$fac-css-prefix-class}.#{$fa-css-prefix}"       !default;
 
 // Black and White
 $black:                        #000000ff !default;
