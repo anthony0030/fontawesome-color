@@ -1,4 +1,5 @@
 .#{$fac-css-prefix-class} {
+  @extend .fad !optional;
   --fa-primary-opacity: 1 !important;
   --fa-secondary-opacity: 1 !important;
 }
